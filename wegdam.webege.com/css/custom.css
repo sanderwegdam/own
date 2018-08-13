@@ -1,0 +1,26 @@
+@media screen and (min-device-width: 320px) {
+section.download{padding:150px 0;position:relative; display:none;}
+section.features{padding:150px 0;position:relative; margin-top:500px; background:rgba(255,255,255,0.9);}
+footer, section.contact{padding:10px 0;position:relative; margin-top:0px ;}
+section, .features h2{font-size:28px;}
+header .header-content-inner h2{ color:#fff !important; padding-top:30px;}
+}
+
+
+@media (min-width:320px) and (max-width:768px) {
+section.features{padding:150px 0;position:relative; margin-top:500px ; background:rgba(255,255,255,0.9);}
+footer, section.contact{padding:10px 0;position:relative; margin-top:0px ;}
+section, .features h2{font-size:28px;}
+header .header-content-inner a{margin-top:-80px;}
+}
+
+
+@media (min-width:768px) and (max-width:992px) {
+section.features{padding:150px 0;position:relative; margin-top:0px ; background:rgba(255,255,255,0.9);}
+footer, section.contact{padding:10px 0;position:relative; margin-top:0px ;}
+}
+
+@media (min-width:992px) and (max-width:1920px) {
+section.features{padding:150px 0;position:relative; margin-top:0px;  }
+footer, section.contact{padding:10px 0;position:relative; margin-top:0px ;}
+}
