@@ -158,18 +158,18 @@ $(document).ready(function(){
 
 
 <div class="w3-row img-thumbnail">
-<div class="w3-col s12 l5 w3-half w3-center gray-block" style="min-height: 1749px; 
-  background: rgba(0,0,0,0.1);" id="Over mij">
+<div class="w3-col s12 l5 w3-half w3-center gray-block" style="min-height: 1749px;
+  background: rgba(0,0,0,0.0);" id="Over mij">
 <div style="text-align:center;">
 <div class="w3-padding-hor-64 w3-center" style="text-align:left; display:inline-block;">
 <h2>Over mij</h2><br>
 <p style="font-size:14px;"><h6><b>Voornaam:</b>	&nbsp;Sander</p></h6>
 <p style="font-size:14px;"><h6><b>Achternaam:</b> &nbsp;Wegdam</p></h6>
 <p style="font-size:14px;"><h6><b>Geslacht:</b> &nbsp;Man</p></h6>
-<p style="font-size:14px;"><h6><b>Geboortedatum:</b> &nbsp;07-04-1989</p></h6>
-<p style="font-size:14px;"><h6><b>Adres:</b>	&nbsp;Kerkhofweg 193</p></h6><br>
+<p style="font-size:14px;"><h6><b>Geboortedatum:</b> &nbsp;07-04-1989</p></h6><br><br/>
+<p style="font-size:14px;"><h6><b>Adres:</b>	&nbsp;Kerkhofweg 193</p></h6>
 <p style="font-size:14px;"><h6><b>Postcode:</b>&nbsp;7586 AD</p></h6>
-<p style="font-size:14px;"><h6><b>Woonplaats:</b> &nbsp;Overdinkel</p></h6><br>
+<p style="font-size:14px;"><h6><b>Woonplaats:</b> &nbsp;Overdinkel</p></h6><br></br>
 <p style="font-size:14px;"><h6><b>Telefoon:</b> &nbsp;053-5386708</p></h6>
 <p style="font-size:14px;"><h6><b>Mobiel:</b> &nbsp;06 37605436</p></h6>
 <p style="font-size:14px;"><h6><b>E-mail:</b> &nbsp;sanderwegdam@gmail.com</p></h6>
@@ -178,14 +178,20 @@ $(document).ready(function(){
 <div class="block">
 <div class="w3-padding-hor-64 w3-center" style="text-align:left; display:inline-block;">
 <h2>Opleidingen</h2><br>
-<p style="font-size:14px;"><h4><b>Vooropleiding 1:</b></h4>Twents Carmel College Losser</p>
+<p style="font-size:14px;">
+
+    <h4><b>Vooropleiding 1</b><br><br>
+    </h4>Twents Carmel College Losser</br>
 <p style="font-size:14px;"><b>Niveau:</b>&nbsp;&nbsp;TGL (Theoretisch Gemengde Leerweg)</p><br>
-<p style="font-size:14px;"><h4><b>Vooropleiding 2:</b></h4>Beeld en Media</p>
+<p style="font-size:14px;"><br>
+    <h4><b>Vooropleiding 2</b><br><br>
+    </h4>Beeld en Media</p>
 <p style="font-size:14px;">Roc van Twente 'De Maere', Enschede</p>
 <p style="font-size:14px;"><b>Niveau:</b>&nbsp;&nbsp;MBO</p>
 <p style="font-size:14px;"><b>Afstudeerrichting:</b>&nbsp;&nbsp;Mediavormgever (webdesign)</p><br>
-<p style="font-size:14px;"><h4>
-<b>Hoogst genoten opleiding:</b></h5></p> 
+<p style="font-size:14px;">
+
+    <h4><br><b>Hoogst genoten opleiding</b></h4><br><br>
 Informatiedienstverlening en Management</p>
 Human Information Design & Strategy (HIDS)</p>
 <p style="font-size:14px;"><b>Niveau:</b>&nbsp;&nbsp;HBO (Associate Degree)</p>
@@ -288,7 +294,7 @@ De computers die binnenkomen voorzie ik van een nieuw besturingssysteem en maak 
           </tr>
           <tr class="w3-hide-medium">
           <td></td>     			
-		     	</tr>         
+          </tr>
            <tr>
             <th>Jaar</th>
             <th>Bedrijf / gegevens</th>
@@ -301,15 +307,29 @@ De computers die binnenkomen voorzie ik van een nieuw besturingssysteem en maak 
              <p>Startdatum: september 2017</p>
              <p>Einddatum: mei 2018</p>
           </td>
-
 <td>Eind 2017 ben ik gestart met de cursus Php en MySQL, daar heb ik leren werken met de scripttaal PHP en het werken met tabellen in de database (MySQL).<p></p>
 Vooral functionaliteiten van CRUD (Create, Read, Update and Delete) kwamen aanbod, het toevoegen, wijzigen en verwijderen van gegevens.</p></td>
           </tr>
           <tr class="w3-hide-medium">
           <td></td>     			
-		     	</tr>
-          
-          
+          </tr>
+            <tr>
+                <th>Specificaties</th>
+                <th>Programma's</th>
+                <th>Scripttalen</th>
+            </tr>
+            <tr class="w3-white">
+                <td>Programma's en scripttalen waar ik meewerk.</td>
+                <td>
+                    <p>Sublime Text</p>
+                    <p>PHP Storm</p>
+                    <p>Visual Studio Code</p>
+                </td>
+                <td><p>HTML</p>
+                    <p>CSS</p>
+                    <p>Javacript</p>
+                    <p>PHP</p></td>
+            </tr>
         </table> 
       <p>
 	<div class="row">

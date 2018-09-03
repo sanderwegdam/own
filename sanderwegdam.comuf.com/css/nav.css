@@ -83,6 +83,12 @@ nav ul li a:hover {
 	margin-top: 20px;
 }
 
+.block{
+	margin-top:150px;
+	margin-bottom: 260px;
+	background-color: white;
+}
+
 p{
 	padding: 1px;
 }
@@ -313,4 +319,6 @@ h5{
 	p{
 		padding: 1px;
 	}
+
+
 }
