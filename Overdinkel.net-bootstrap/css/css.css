@@ -1,0 +1,240 @@
+body {
+    font-family: tahoma, helvetica, arial, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    color: #333;
+	float: none;
+}
+
+html, body, nav #wrapper, h1, #nav, #nav li {
+    margin: 0;
+    padding: 10px;
+    list-style: none;
+}
+
+nav {
+    font-size: 14px;
+}
+
+.jumbotron {
+    margin-top: 20px;
+}
+
+th, td {
+    font-size: 12px;
+}
+
+img { border: 0; }
+
+i {
+	font-size: 20px;
+    padding: 10px;
+	display: none;
+}
+
+#wrapper {
+    margin: auto;
+    text-align: left;
+    width: 800px;	
+    position: relative;
+}
+
+h1, h2, h3 {
+    font-size: 12px;
+}
+
+.blow {
+	margin: auto;
+	top: 220px;
+	right: 380px;
+	position:absolute;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    margin: 0 0 0 0;
+    padding: 0;
+}
+
+h3 {
+    margin: 4px 0 0 0;
+    padding: 0 0 0 0;
+}
+
+p {
+    margin: 1em 0;
+    padding: 0;
+}
+
+.block {
+    display: block;
+}
+
+.clear {
+    clear: both;
+    height: 1px;
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 1px;
+    line-height: 1px;
+}
+
+* html .clear {
+    margin-top: -5px;
+    margin-bottom: -4px;
+}
+
+.left {
+    float: left;
+    margin: 1px 8px 0px 0px;
+}
+
+.right {
+    float: right;
+    margin: 1px 0px 0px 8px;
+}
+
+#tekst {
+	position: relative;
+    text-align: left;
+	margin: auto;
+	width: 500px;
+	left: 100px;
+	top: -750px;	
+}
+
+.readmore {
+    text-align: left;
+	left: 100px;
+	top: 10px;
+	position: relative;
+    padding-right: 1em;
+}
+
+#wrapper {
+    width: 1024px;
+    background: #fff;
+    border: 1px solid #fff;
+
+}
+
+a {
+    text-decoration: none;
+    font-weight: normal;
+    color: #cb4c8c;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/* nav */
+
+* html .clear {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#nav li {
+    float: left;
+    list-style: none;
+    width: 140px;
+    font-size: 12px;
+    font-weight: bold;
+    border-left: 1px solid white;
+    text-align: center;
+}
+
+#nav li.first {
+    width: 140px;
+    border-left: none;
+}
+
+#nav a {
+    color: #fff;
+    display: block;
+    text-decoration: none;
+    background: #09F;
+    padding: 1px 0;
+    width: 110%;
+}
+
+#nav a:hover {
+    background: #06F;
+}
+
+/* highlights */
+
+#highlights {
+    background: url(images/tennis_racket.png) no-repeat;
+    width: 327px;
+    float: left;
+	left: 1px;
+	position: relative;
+    margin-right: -12px;
+	top: 5px;
+	border: 1px solid #bdbdbd;	
+	}
+
+#highlights .p {
+    padding: 8px 7px;
+    margin-left: 350px;
+    border-bottom: 2px solid white;
+
+}
+
+* html #highlights .p {
+    padding-bottom: 6px;	
+}
+
+/* right */
+
+#right {
+    width: 370px;
+    float: right;
+	top: 5px;
+	position: relative;
+    border-top: 1px solid #bdbdbd;
+    background: url(images/body_tr_bg.gif);
+}
+
+#right .right {
+    margin-left: 1px;
+}
+
+.links {
+	text-align: center;
+}
+
+#footer {
+    color: #fff;
+    background: #09F;
+    text-align: center;
+    padding: 8px 0;
+}
+
+#footer a {
+    color: #fff;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+#footer a:hover {
+    color: #000;
+}
+
+@media only screen and (max-width: 600px) and (min-width: 320px) {
+   li {
+        margin-left: 0px;
+    }   
+   
+    i {
+      margin-left: -20px;
+    }  
+}

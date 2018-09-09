@@ -1,0 +1,43 @@
+<html>
+<body>
+<script type="text/javascript">
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.open("GET","books.xml",false);
+xmlhttp.send();
+xmlDoc=xmlhttp.responseXML; 
+txt=xmlDoc.getElementsByTagName("heading")[0].childNodes[0].nodeValue;
+document.write("<strong>");
+document.write(txt);
+document.write("</strong>");
+
+txt=xmlDoc.getElementsByTagName("body")[0].childNodes[0].nodeValue;
+document.write("<p>");
+document.write(txt);
+document.write("</p>");
+
+txt=xmlDoc.getElementsByTagName("title")[0].childNodes[0].nodeValue;
+document.write("<p>");
+document.write(txt);
+document.write("</p>");
+
+txt=xmlDoc.getElementsByTagName("back")[0].childNodes[0].nodeValue;
+document.write("<p>");
+document.write(txt);
+document.write("</p>");
+
+txt=xmlDoc.getElementsByTagName("from")[0].childNodes[0].nodeValue;
+document.write("<em>");
+document.write("<br>");
+document.write(txt);
+document.write("</br>");
+document.write("</em>");
+</script>
+</body>
+</html>
