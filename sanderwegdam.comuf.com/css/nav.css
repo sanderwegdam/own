@@ -119,7 +119,7 @@ h5{
 .h2 {
 	position: relative;
 	top: -20px;
-	color: green;
+	color: white;
 }
 
 h5{
@@ -141,7 +141,7 @@ h5{
 .h2 {
 	position: relative;
 	top: 100px;
-	color:red;
+	color: white;
 }
 
 h5{
@@ -162,7 +162,7 @@ h5{
 .h2 {
 	position: relative;
 	top: 10px;
-	color:blue;
+	color: white;
 }
 
 h5{
@@ -182,7 +182,7 @@ h5{
 .h2 {
 	position: relative;
 	top: 0px;
-	color:black;
+	color: white;
 }
 h5{
 	position: relative;
@@ -197,7 +197,7 @@ h5{
 .h2 {
 	position: relative;
 	top: 0px;
-	color: black;
+	color: white;
 }
 
 h5{
@@ -299,7 +299,7 @@ h5{
 	.h2 {
 		position: relative;
 		top: -10px;
-		color: yellow;
+		color: white;
 	}
 
 	h5{
@@ -319,6 +319,4 @@ h5{
 	p{
 		padding: 1px;
 	}
-
-
 }

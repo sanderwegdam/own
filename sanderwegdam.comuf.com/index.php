@@ -2,59 +2,48 @@
 <html>
 <head>
 <title>CV - Sander Wegdam</title>
+
+<meta name="keywords" content="Sander Wegdam, web, media,
+developer, PHP, MYSQL, Javascript, webdesigner, web developer, databases, overdinkel,
+mediavormgever, frameworks, webtalen, scripttalen, cv sander wegdam, 2018, werk, werkervaring, CV Sander Wegdam"/>
+
+<meta name="description" content="Sander Wegdam is een webdesigner en werkt met scripttalen als PHP,
+en is gericht op objectgeoriënteerd programmeren." />
+
 <meta name="DC.Creator" content="Sander Wegdam" />
-<meta name="DC.Description" content="Sander Wegdam is een Web developer." />
-<meta name="DC.Publisher" content="Sander Wegdam" />
-<meta name="DC.Contributor" content="Sander Wegdam" />
-<meta name="DC.Language" scheme="DCTERMS.ISO639-3" content="NL" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta content="index,follow"/>
-<meta name="twitter:creator" content="@Wegdamm">
-<META NAME="geo.position" CONTENT="latitude; longitude">
-<META NAME="geo.placename" CONTENT="Overdinkel">
-<META NAME="geo.region" CONTENT="NL">
-<meta name="channel" content="Developer" />
-<meta name="DC.Rights" content="Copyright Wegdam 2018"/>
-<meta name="DC.Date" scheme="iso8601" content="01-01-2018"/>
-<meta name="Source" content="Templates"/>
-<meta name="Security" content="Public"/>
-<meta name="Abstract" content="CV - Sander Wegdam" />
-<meta name=".Effective" scheme="W3CDTF" content="06-02-2013"/>
-<meta name="DC.Subject" scheme="_SubjectTaxonomy" content="ZZ999"/>
-<meta name="Owner" content="Sander Wegdam"/>
-<meta name=".SpecialPurpose" content="SP001"/>
-<meta name=".Country" content="ZZ"/>
-<meta name="Robots" content="index,follow"/>
-<meta http-equiv="pics-Label" content='(pics-1.1 "http://www.icra.org/pics/vocabularyv03/" l gen true for "http://www.sanderwegdam.comuf.com" r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0)' />
-<link rel="canonical" href="http://www.sanderwegdam.comuf.com/index.php" />
-<meta http-equiv="Cache-control" content="Public"/>
-<link rel="shortlink" href="www.sanderwegdam.comuf.com/index.php" />
-<link rel="apple-touch-icon" href="images/favicon.ico"/>
-<link rel="apple-touch-icon" sizes="72x72" href="images/favicon.ico"/>
-<meta name="googlebot" content="noodp" />
-<meta name="web_author" content="Webdeveloper Sander Wegdam" />
-<meta property="og:title" content="CV - Sander Wegdam"/>
-<meta property="og:image" content="images"/>
-<meta property="og:description" content="Sander Wegdam"/>
-<meta name="rating" content="general" />
-<meta http-equiv="X-UA-Compatible" content="chrome=1" />
-<meta name="contact" content="sanderwegdam@gmail.com" />
-<meta name="reply-to" content="sanderwegdam@gmail.com" />
-<meta name="abstract" content="Sander Wegdam"/>
-<meta http-equiv="Page-Enter" content="blendTrans(Duration=0.3)"/>
-<meta http-equiv="Page-Exit" content="blendTrans(Duration=0.3)"/>
-<meta name="syndication-source" content="www.sanderwegdam.comuf.com"/>
-<meta scheme="ISBN" name="identifier" content="1-2345-678 X"/>
-<meta name="Dc.creater" content="Sander Wegdam"/>
 <meta name="Dc.title" content="CV- Sander Wegdam"/>
 <meta name="Dc.creator.keyword" content="Sander Wegdam - Web Developer" />
 <meta name="Dc.creator.email" content="sanderwegdam@gmail.com"/>
-<meta http-equiv="Resource-Type" content="document"/>
-<meta http-equiv="Window-Target" content="_top"/>
-<meta http-equiv="Set-Cookie" content="ACCOUNT=9983373; path=/; expires=Thursday, 26-Dec-11 00:15:00 GMT"/>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<meta http-equiv="content-language" content="NL"/>
-<meta name="keywords" content="Sander Wegdam, web, media, developer"/>
+<meta name="DC.Description" content="Sander Wegdam is een Web developer." />
+<meta name="DC.Publisher" content="Sander Wegdam" />
+<meta name="DC.Contributor" content="Sander Wegdam" />
+<meta name="DC.Rights" content="Copyright Wegdam 2018"/>
+<meta name="DC.Date" scheme="iso8601" content="01-01-2018"/>
+<meta name="DC.Language" scheme="DCTERMS.ISO639-3" content="NL" />
+<meta name="twitter:creator" content="@Wegdamm">
+
+<meta NAME="geo.position" CONTENT="latitude; longitude">
+<meta NAME="geo.placename" CONTENT="Overdinkel">
+<meta NAME="geo.region" CONTENT="NL">
+
+<meta property="og:title" content="CV - Sander Wegdam"/>
+<meta property="og:image" content="images"/>
+<meta property="og:description" content="Sander Wegdam"/>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="MobileOptimized" content="240">
+<meta name='HandheldFriendly' content='True'>
+<meta content="index,follow"/>
+<meta name="Robots" content="index,follow"/>
+<link rel="canonical" href="http://www.sanderwegdam.comuf.com/index.php" />
+<link rel="shortlink" href="www.sanderwegdam.comuf.com/index.php" />
+<link rel="apple-touch-icon" href="images/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="72x72" href="images/favicon.ico"/>
+<meta name="rating" content="general" />
+<meta name="contact" content="sanderwegdam@gmail.com" />
+<meta name="reply-to" content="sanderwegdam@gmail.com" />
+<meta name="abstract" content="Sander Wegdam"/>
+<meta name="syndication-source" content="www.sanderwegdam.comuf.com"/>
 <meta name="googlebot" content="noodp"/>
 <meta name="author" content="Sander Wegdam"/>
 <meta name="generator" content="dreamweaver"/>
@@ -63,9 +52,29 @@
 <meta name="contact" content="sanderwegdam@gmail.com" />
 <meta name="copyright" content="Sander Wegdam" />
 <meta name="verify-v1" content="BvXx9XCoS0OBRySvyatDV4wmIgBkvSzacYhT6KsbAJY="/>
-<meta name="description" content="Sander Wegdam is een webdesigner en werkt met scripttalen als PHP, en is gericht op objectgeoriënteerd programmeren." />
-<meta name="MobileOptimized" content="240">
-<meta name='HandheldFriendly' content='True'>
+<meta name="channel" content="Developer"/>
+<meta name="Source" content="Templates"/>
+<meta name="Security" content="Public"/>
+<meta name="Abstract" content="CV - Sander Wegdam"/>
+<meta name=".Effective" scheme="W3CDTF" content="06-02-2013"/>
+<meta name="DC.Subject" scheme="_SubjectTaxonomy" content="ZZ999"/>
+<meta name="Owner" content="Sander Wegdam"/>
+<meta name=".SpecialPurpose" content="SP001"/>
+<meta name=".Country" content="NL"/>
+<meta name="googlebot" content="noodp"/>
+<meta name="web_author" content="Webdeveloper Sander Wegdam"/>
+<meta http-equiv="Cache-control" content="Public"/>
+<meta scheme="ISBN" name="identifier" content="1-2345-678 X"/>
+
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=0.3)"/>
+<meta http-equiv="Page-Exit" content="blendTrans(Duration=0.3)"/>
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<meta http-equiv="Resource-Type" content="document"/>
+<meta http-equiv="pics-Label" content='(pics-1.1 "http://www.icra.org/pics/vocabularyv03/" l gen true for "http://www.sanderwegdam.comuf.com" r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0)' />
+<meta http-equiv="Window-Target" content="_top"/>
+<meta http-equiv="Set-Cookie" content="ACCOUNT=9983373; path=/; expires=Thursday, 26-Dec-11 00:15:00 GMT"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="content-language" content="NL"/>
 
 <link rel="icon" href="images/favicon.png"/>
 <link rel="stylesheet" href="https://getbootstrap.com/dist/css/bootstrap.min.css">
@@ -169,7 +178,7 @@ $(document).ready(function(){
 <p style="font-size:14px;"><h6><b>Geboortedatum:</b> &nbsp;07-04-1989</p></h6><br><br/>
 <p style="font-size:14px;"><h6><b>Adres:</b>	&nbsp;Kerkhofweg 193</p></h6>
 <p style="font-size:14px;"><h6><b>Postcode:</b>&nbsp;7586 AD</p></h6>
-<p style="font-size:14px;"><h6><b>Woonplaats:</b> &nbsp;Overdinkel</p></h6><br></br>
+<p style="font-size:14px;"><h6><b>Woonplaats:</b> &nbsp;Overdinkel</p></h6><br><br>
 <p style="font-size:14px;"><h6><b>Telefoon:</b> &nbsp;053-5386708</p></h6>
 <p style="font-size:14px;"><h6><b>Mobiel:</b> &nbsp;06 37605436</p></h6>
 <p style="font-size:14px;"><h6><b>E-mail:</b> &nbsp;sanderwegdam@gmail.com</p></h6>
@@ -181,7 +190,7 @@ $(document).ready(function(){
 <p style="font-size:14px;">
 
     <h4><b>Vooropleiding 1</b><br><br>
-    </h4>Twents Carmel College Losser</br>
+    </h4>Twents Carmel College Losser<br>
 <p style="font-size:14px;"><b>Niveau:</b>&nbsp;&nbsp;TGL (Theoretisch Gemengde Leerweg)</p><br>
 <p style="font-size:14px;"><br>
     <h4><b>Vooropleiding 2</b><br><br>
@@ -327,7 +336,7 @@ Vooral functionaliteiten van CRUD (Create, Read, Update and Delete) kwamen aanbo
                 </td>
                 <td><p>HTML</p>
                     <p>CSS</p>
-                    <p>Javacript</p>
+                    <p>Javascript</p>
                     <p>PHP</p></td>
             </tr>
         </table> 
