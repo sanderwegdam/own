@@ -169,7 +169,7 @@ $(document).ready(function(){
 <p style="font-size:14px;"><h6><b>Geboortedatum:</b> &nbsp;07-04-1989</p></h6><br><br/>
 <p style="font-size:14px;"><h6><b>Adres:</b>	&nbsp;Kerkhofweg 193</p></h6>
 <p style="font-size:14px;"><h6><b>Postcode:</b>&nbsp;7586 AD</p></h6>
-<p style="font-size:14px;"><h6><b>Woonplaats:</b> &nbsp;Overdinkel</p></h6><br></br>
+<p style="font-size:14px;"><h6><b>Woonplaats:</b> &nbsp;Overdinkel</p></h6><br><br>
 <p style="font-size:14px;"><h6><b>Telefoon:</b> &nbsp;053-5386708</p></h6>
 <p style="font-size:14px;"><h6><b>Mobiel:</b> &nbsp;06 37605436</p></h6>
 <p style="font-size:14px;"><h6><b>E-mail:</b> &nbsp;sanderwegdam@gmail.com</p></h6>
@@ -181,7 +181,7 @@ $(document).ready(function(){
 <p style="font-size:14px;">
 
     <h4><b>Vooropleiding 1</b><br><br>
-    </h4>Twents Carmel College Losser</br>
+    </h4>Twents Carmel College Losser<br>
 <p style="font-size:14px;"><b>Niveau:</b>&nbsp;&nbsp;TGL (Theoretisch Gemengde Leerweg)</p><br>
 <p style="font-size:14px;"><br>
     <h4><b>Vooropleiding 2</b><br><br>
