@@ -6,11 +6,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <meta name="description" content="Wegdam Media Services bouwt uw website naargelang uw eisenpakket,
     zowel responsive webdesign als een zoekmachine geoptimaliseerde website">
+
     <meta name="keywords" content="sander wegdam, overdinkel, twente, losser, website, mediadesign,
      seo, cms, mobiel, desktop, Wegdam Media Services, Sander Wegdam, Sander Wegdam CV,
-                                   realisatie, responsive, webdesign, webdeveloper, wegdam, wegdam media, wegdam media services, cv, php, javascript, html, css"/>
+                                   realisatie, gebruiksvriendelijke website, services,
+                                    responsive, webdesign, webdeveloper, wegdam, wegdam media,
+                                    wegdam media services, cv, php, javascript, html, css, concept"/>
+
     <meta name="author" content="Sander Wegdam">
 
     <meta name="DC.Creator" content="Sander Wegdam"/>
@@ -78,7 +83,7 @@
     <meta name="MobileOptimized" content="240">
     <meta name='HandheldFriendly' content='True'>
 
-    <title>Wegdam Media</title>
+    <title>Wegdam Media Services</title>
 
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -164,13 +169,13 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Wegdam Media Services kan u een gebruiksvriendelijke website aanbieden!
-                    <p>
-                    <p>Sander Wegdam werkt met verschillende webtalen.</h2>
+                <h2 class="section-heading">Wegdam Media Services  biedt u een <br> gebruiksvriendelijke website aan!
+                    <p><p>
+                    <p>Sander Wegdam realiseert een website van concept tot aan realisatie.</h2>
             </div>
         </div>
     </div>
-    <div class="container">
+    <div class="container" style="margin-top:50px;">
         <div class="row">
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="service-box">
