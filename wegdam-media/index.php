@@ -9,7 +9,8 @@
     <meta name="description" content="Wegdam Media Services bouwt uw website naargelang uw eisenpakket,
     zowel responsive webdesign als een zoekmachine geoptimaliseerde website">
     <meta name="keywords" content="sander wegdam, overdinkel, twente, losser, website, mediadesign,
-     seo, cms, responsive, webdesign, webdeveloper, wegdam, wegdam media, wegdam media services, cv, php, javascript, html, css"/>
+     seo, cms, mobiel, desktop, Wegdam Media Services, Sander Wegdam, Sander Wegdam CV,
+                                   realisatie, responsive, webdesign, webdeveloper, wegdam, wegdam media, wegdam media services, cv, php, javascript, html, css"/>
     <meta name="author" content="Sander Wegdam">
 
     <meta name="DC.Creator" content="Sander Wegdam"/>
@@ -163,9 +164,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Een gebruiksvriendelijke website!
+                <h2 class="section-heading">Wegdam Media Services kan u een gebruiksvriendelijke website aanbieden!
                     <p>
-                    <p>Dat is wat ik u aan kan bieden.</h2>
+                    <p>Sander Wegdam werkt met verschillende webtalen.</h2>
             </div>
         </div>
     </div>

@@ -1,25 +1,29 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-<head>  
+<head>
 <title>Wegdam Media Services</title>  
+    
 <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
 <meta name="DC.title" content="Wegdam Media Services" />
 <meta name="DC.Creator" content="Sander Wegdam" />
-<meta name="DC.Description" content="Sander Wegdam is een webdesigner en web developer." />
+<meta name="DC.Description" content="Sander Wegdam is een webdesigner en web developer en werkt met verschillende webtalen." />
 <meta name="DC.Publisher" content="Sander Wegdam" />
 <meta name="DC.Contributor" content="Sander Wegdam" />
 <meta name="DC.Language" scheme="DCTERMS.ISO639-3" content="NL" />
-<META NAME="geo.position" CONTENT="latitude; longitude">
-<META NAME="geo.placename" CONTENT="Overdinkel">
-<META NAME="geo.region" CONTENT="NL">
+<meta name="DC.Rights" content="Copyright Wegdam 2018"/>
+<meta name="DC.Date" scheme="iso8601" content="01-01-2018"/>
+    
+<meta name="geo.position" CONTENT="latitude; longitude">
+<meta name="geo.placename" CONTENT="Overdinkel">
+<meta name="geo.region" CONTENT="NL">
+    
 <meta name="googlebot" content="noodp" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="MobileOptimized" content="240">
 <meta name='HandheldFriendly' content='True'>
 <meta charset="utf-8">
 <meta content="index,follow"/>
-<meta name="DC.Rights" content="Copyright Wegdam 2018"/>
-<meta name="DC.Date" scheme="iso8601" content="01-01-2018"/>
+    
 <meta name="Source" content="Templates"/>
 <meta name="Security" content="Public"/>
 <meta name="Abstract" content="Wegdam Media Services" />
@@ -35,6 +39,7 @@
 <link rel="apple-touch-icon" sizes="72x72" href="img/favicon.ico"/>
 <meta name="googlebot" content="noodp" />
 <meta name="web_author" content="Web Developer Sander Wegdam" />
+    
 <meta property="og:title" content="Wegdam Media Services"/>
 <meta property="og:image" content="images"/>
 <meta property="og:description" content="Wegdam Media Services bouwt een website naargelang uw eisenpakket"/>
@@ -44,9 +49,11 @@
 <meta property="og:site_name" content="Wegdam Media Services" />
 <meta property="og:url" content="https://wegdam.webege.com/" />
 <meta property="og:locale" content="nl_NL" />
+    
 <meta name="twitter:title" content="Wegdamm" />
 <meta name="twitter:site" content="@Wegdamm" />
 <meta name="twitter:creator" content="@Wegdamm" />
+    
 <meta name="rating" content="general" />
 <meta http-equiv="X-UA-Compatible" content="chrome=1" />
 <meta name="contact" content="sanderwegdam@gmail.com" />
@@ -73,8 +80,11 @@
 <meta name='HandheldFriendly' content='True'>
 
     <meta name="author" content="Sander Wegdam">
-    <meta name="keywords" content="sander Wegdam, Wegdam, wegdam website, wegdam media, wegdam media services, ontwerp, webdeveloper,
-    losser, website bouwen, website wegdam, twente, mediavormgever, webdesign, seo, responsive website" />
+    
+    <meta name="keywords" content="Sander Wegdam, Wegdam, wegdam website, wegdam media, Wegdam Media Services, ontwerp, webdeveloper,
+    losser, website bouwen, website wegdam, twente, mediavormgever, webdesign, 
+    seo, responsive website, SEO, webtalen, scripttalen, desktop, mobiel, responsive, realisatie" />
+    
     <meta name="description" content="Wegdam Media Services bouwt een website naargelang uw eisenpakket." />
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -168,11 +178,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
-                    <h3 class="section-heading">Als webdesigner kan ik u services aanbieden, zoals het 
+                    <h3 class="section-heading">Sander Wegdam is een webdesigner en kan uw services aanbieden, zoals het 
                     up to date houden van uw website.</h3>
                     <p>Ik volg de onwikkelingen op webgebied en mijn expertise geef ik graag door.
                         <br>Ik werk met webtalen zoals, HTML, Javascript, PHP.</p>
-                    <p>Sander Wegdam helpt u graag bij uw ideeën.</p>
+                    <p>Ik help u graag bij uw ideeën van concept tot aan realisatie.</p>
                     <div class="badges">                                 
                     </div>
                 </div>
@@ -185,7 +195,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="section-heading">
-                        <h2>Een gebruiksvriendelijke website!</h2>
+                        <h2>Wegdam Media Services bouwt een gebruiksvriendelijke website!</h2>
                         <p class="text-muted">Dat is wat ik u aan kan bieden.</p>
                         <hr>
                     </div>
@@ -249,7 +259,7 @@
     <section id="contact" class="contact">        
     </section>
   <footer>
-
+      
         <?php
         $query_age = (isset($_GET['pagina']) ? $_GET['pagina'] : null);
         if(!(isset($_GET['pagina']))) {
