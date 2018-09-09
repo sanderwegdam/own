@@ -171,7 +171,7 @@
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Wegdam Media Services  biedt u een <br> gebruiksvriendelijke website aan!
                     <p><p>
-                    <p>Sander Wegdam realiseert een website van concept tot aan realisatie.</h2>
+                    <p>Sander Wegdam bouwt een website van concept tot aan realisatie.</h2>
             </div>
         </div>
     </div>
