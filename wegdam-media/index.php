@@ -8,8 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Wegdam Media Services bouwt uw website naargelang uw eisenpakket,
     zowel responsive webdesign als een zoekmachine geoptimaliseerde website">
-    <meta name="keywords" content="sander wegdam, overdinkel, twente, losser, website, mediadesign,
-     seo, cms, responsive, webdesign, webdeveloper, wegdam, wegdam media, wegdam media services, cv, php, javascript, html, css"/>
+    <meta name="keywords" content="sander wegdam, wegdam overdinkel, website wegdam media, wegdam mediadesign, wegdam website, 
+     sander wegdam seo, wegdam media cms, wegdam media responsive, wegdam media webdesign, webdeveloper sander wegdam, wegdam media design,
+                                   wegdam media, wegdam media services, sander wegdam cv, wegdam media php, wegdam media javascript, 
+                                   wegdam media html, wegdam media css"/>
     <meta name="author" content="Sander Wegdam">
 
     <meta name="DC.Creator" content="Sander Wegdam"/>
@@ -77,7 +79,7 @@
     <meta name="MobileOptimized" content="240">
     <meta name='HandheldFriendly' content='True'>
 
-    <title>Wegdam Media</title>
+    <title>Wegdam Media Services</title>
 
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -111,7 +113,7 @@
             </button>
             <div class="col-sm">
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <img alt="Wegdam Media" class="img-fluid float-left rounded" width="50%" src="img/wegdam-media.png"></a>
+                    <img alt="Wegdam Media Services" class="img-fluid float-left rounded" width="50%" src="img/wegdam-media.png"></a>
             </div>
         </div>
 
@@ -121,13 +123,13 @@
                     <a class="page-scroll" href="#page-top"></a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#over">Over</a>
+                    <a class="page-scroll" href="#over" alt="Sander Wegdam">Sander Wegdam</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#diensten">diensten</a>
+                    <a class="page-scroll" href="#diensten" alt="diensten Wegdam Media Services">Services</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#CV">Cv</a>
+                    <a class="page-scroll" href="#CV" alt="Cv Sander Wegdam">Cv</a>
                 </li>
             </ul>
         </div>
@@ -153,7 +155,7 @@
                          src="img/about-me-sanderwegdam.png">
                 </div>
                 <p></p>
-                <a href="#diensten" class="page-scroll btn btn-default btn-xl sr-button">Diensten</a>
+                <a href="#diensten" class="page-scroll btn btn-default btn-xl sr-button">Services</a>
             </div>
         </div>
     </div>
@@ -198,7 +200,7 @@
                 <div class="service-box">
                     <i class="fa fa-2x fa-check text-primary sr-icons"></i>
                     <h3>Scripttalen</h3>
-                    <p class="text-muted">Ik werk met de webtalen: HTML, CSS, Javascript, PHP. En eventueel
+                    <p class="text-muted">Sander Wegdam werkt met webtalen: HTML, CSS, Javascript, PHP. En eventueel
                         ondersteunende frameworks.</p>
                 </div>
             </div>
