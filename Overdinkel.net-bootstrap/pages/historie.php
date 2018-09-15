@@ -29,7 +29,10 @@
             <dd><a href="http://www.dorpsraadoverdinkel.gosite.nl/web/showPhotobook.aspx?websiteID=471&amp;photobook=overdinkel_toen" target="_blank" alt="Foto's Overdinkel">Foto's</a></dd>
             <dd><a href="http://home.kpn.nl/gwthslageren1983/index.html" target="_blank" alt="Historische Kring Losser">Historische Kring</a></dd>
             <dd><a href="http://dorpsraadoverdinkel.nl/?p=399" target="_blank" alt="Stamboom onderzoek">Stamboom onderzoek</a></dd>
-            <dd><a href="http://overdinkel.cylex-bedrijvengids.nl/bedrijf/stichting-volksfeest-overdinkel-12238382.html" target="_blank">Stichting Volksfeesten Overdinkel</a></dd>
+            <dd><a href="http://overdinkel.cylex-bedrijvengids.nl/bedrijf/stichting-volksfeest-overdinkel-12238382.html" target="_blank">
+                    Stichting Volksfeesten Overdinkel</a></dd>
+            <dd><a href="http://www.vvvdeluttelosser.nl/smokkeldorp-overdinkel" target="_blank">
+                        Smokkeldorp Overdinkel</a></dd>
             </dl>
             </p>
             <img src="images/twente.png" class="img-responsive img-fluid rounded" alt="twente-overdnkel"> 

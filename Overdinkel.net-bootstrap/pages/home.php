@@ -26,9 +26,9 @@
           <div class="p-3 mb-3 bg-light rounded">
             <h4 class="font-italic">Grensdorp</h4><br>
             <p class="mb-0">Overdinkel ligt ten zuidoosten van het dorp Losser aan de andere zijde van de Dinkel, waaraan het zijn naam ontleent. 
-              </p>In het oosten en zuiden grenst het aan Duitsland. 
-             </p>
-            <img src="images/overdinkel.png" class="img-responsive img-fluid rounded" alt="plaats-overdnkel"> 
+              </p>In het oosten en zuiden grenst het aan Duitsland.<p><p></p>
+            <img src="images/overdinkel.png" class="img-responsive img-fluid rounded" alt="plaats-overdnkel"><p></p>
+                  <a href="https://www.weerplaza.nl/nederland/overdinkel/15253/" target="_blank" alt="Weer nu in Overdinkel">Weersverwachting</a>
           </div>
         </aside>
       </div>

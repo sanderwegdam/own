@@ -13,8 +13,9 @@ Elk jaar op 7 juli start het Euregiofeest een gezellig dorpsfeest in Overdinkel.
 Het is een feest voor jong en oud en er is voor iedereen wat te doen. 
 <p>De Hoofdstraat is twee dagen afgesloten voor het verkeer en de straat is omgetoverd tot een voetgangersdomein. 
 Het feest start op zaterdagochtend om 10.00 uur en gaat door tot de zondagmiddag 18.00 uur.
-<a href="http://www.euregiofeest.nl/" target="_blank" alt="Euregiofeest">Euregiofeest</a>
-            <hr>
+<a href="http://www.euregiofeest.nl/" target="_blank" alt="Euregiofeest">Euregiofeest</a><hr>
+                  <img src="images/aangezicht.jpg" class="img-responsive img-fluid rounded" style="width:480px;" alt="aangezicht Overdinkel">
+              <hr>
          </div>        
         </div>
         <aside class="col-md-4 blog-sidebar">
@@ -32,9 +33,10 @@ Het feest start op zaterdagochtend om 10.00 uur en gaat door tot de zondagmiddag
             <dd><a href="http://www.fysiotherapie-grimme.nl/#Contact" target="_blank" alt="Praktijk Grimme Fysiotherapie">Praktijk Grimme Fysiotherapie</a></dd>
             <dd><a href="http://www.meridiaan.net" target="_blank" alt="Meridiaan acupunctuur">Meridiaan Acupunctuur</a></dd>
             <dd><a href="http://www.detelefoongids.nl/sporthuis-ben-hassing/20655136/5-1/" target="_blank" alt="Schoenen en Sporthuis Ben Hassing">Sporthuis Ben Hassing</a></dd>
+            <dd><a href="https://www.purebeautyoverdinkel.nl/" target="_blank" alt="Voetpedicure">Purebeauty Overdinkel</a></dd>
             <dd><a href="http://www.pedicureservice.nl/" target="_blank" alt="Voetpedicure">Voetpedicure</a></dd>
             <dd><a href="http://www.mariavlucht.nl/" target="_blank" alt="Rooms Katholieke Kerk"> Katholieke Kerk</a></dd>
-            <dd><a href="http://www.detelefoongids.nl/bg-l/13989094-Protestantse+Kerk+Overdinkel/vermelding/" target="_blank" alt="Protestantse Kerk">Protestantse Kerk</a></dd>
+            <dd><a href="https://overdinkel.protestantsekerk.net/" target="_blank" alt="Protestantse Kerk">Protestantse Kerk</a></dd>
             </dd>
             </dl>            
             <nav class="pagination">
