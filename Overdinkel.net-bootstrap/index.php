@@ -60,10 +60,10 @@
 
     <meta name="description" content="Het dorp Overdinkel heeft een riviertje genaamd 'De Dinkel' en is gelegen in het oosten van de streek Twente,
    en valt onder de gemeente Losser. Het dorp ligt vlak aan de grens van Duitsland."/>
-    <meta name="keywords" content="dorp overdinkel, plaats overdinkel, overdinkel, overdinkel.net, 
+    <meta name="keywords" content="dorp overdinkel, plaats overdinkel, overdinkel, overdinkel.net,
   overdinkel geschiedenis, overdinkel supermarkt, overdinkel snackbar, overdinkel vacatures,
   overdinkel dorpsraad,overdinkel instellingen,overdinkel toerisme, overdinkel twente, overdinkel hoofdstraat,
-  overdinkel vrijetijd, euregiofeest,overdinkel voorzieningen, overdinkel verenigingen, 
+  overdinkel vrijetijd, euregiofeest,overdinkel voorzieningen, overdinkel verenigingen,
   historie overdinkel,dinkel, overdinkel wandelen,overdinkel natuur, overdinkel winkels, overdinkel carnaval,
   wandelen overdinkel, sport overdinkel, grensdorp overdinkel, dorpsraad,overdinkel losser, gemeente losser, riviertje dinkel,
   overdinkel voetbal, trefhuus overdinkel, overdinkel uitgaan, overdinkel grensdorp, overdinkel stichtingen,
@@ -170,4 +170,3 @@
     include("pages/" . $_GET['pagina'] . ".php");
 
     ?>
-   

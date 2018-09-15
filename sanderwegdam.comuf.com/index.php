@@ -3,9 +3,11 @@
 <head>
 <title>CV - Sander Wegdam</title>
 
-<meta name="keywords" content="Sander Wegdam, web, media,
-developer, PHP, MYSQL, Javascript, webdesigner, web developer, databases, overdinkel,
-mediavormgever, frameworks, webtalen, scripttalen, cv sander wegdam, 2018, werk, werkervaring, CV Sander Wegdam"/>
+<meta name="keywords" content="Sander Wegdam, sander wegdam web, sander wegdam media,
+sander wegdam developer, sander wegdam PHP, sander wegdam MYSQL, sander wegdam javascript, sander wegdam webdesigner, sander wegdamweb developer,
+ sander wegdam databases, sander wegdam overdinkel,
+sander wegdam mediavormgever, sander wegdam frameworks, sander wegdam webtalen, sander wegdam scripttalen,
+sander wegdam cv, sander wegdam 2018, sander wegdam werk, sander wegdam werkervaring, cv Sander Wegdam"/>
 
 <meta name="description" content="Sander Wegdam is een webdesigner en werkt met scripttalen als PHP,
 en is gericht op objectgeoriënteerd programmeren." />
