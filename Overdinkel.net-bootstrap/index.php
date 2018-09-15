@@ -30,7 +30,7 @@
 
     <meta property="og:title" content="Overdinkel"/>
     <meta property="og:image" content="Overdinkel images"/>
-    <meta property="og:description" content="Overdinkel"/>
+    <meta property="og:description" content="Overdinkel heeft een riviertje genaamd de dinkel"/>
 
     <meta name="rating" content="general"/>
     <meta http-equiv="X-UA-Compatible" content="chrome=1"/>
@@ -48,7 +48,7 @@
     <meta name="Dc.title" content="title"/>
     <meta name="Dc.description" content="description"/>
     <meta name="Dc.subject" content="description"/>
-    <meta name="Dc.creator.keyword" content="Overdinkel,Dinkel,voorzieningen,toerisme,Gemeente Losser,Grens,Gronau"/>
+    <meta name="Dc.creator.keyword" content="Sander Wegdam, Overdinkel"/>
     <meta name="Dc.creator.email" content="sanderwegdam@gmail.com"/>
     <meta name="DC.Type" scheme="Wegdam_ContentClassTaxonomy" content="CT900"/>
 
@@ -58,15 +58,16 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta http-equiv="content-language" content="NL"/>
 
-    <meta name="description" content="Het dorp Overdinkel heeft een riviertje genaamd De Dinkel en is gelegen in het oosten van de streek Twente,
+    <meta name="description" content="Het dorp Overdinkel heeft een riviertje genaamd 'De Dinkel' en is gelegen in het oosten van de streek Twente,
    en valt onder de gemeente Losser. Het dorp ligt vlak aan de grens van Duitsland."/>
-    <meta name="keywords" content="dorp overdinkel,plaats overdinkel,overdinkel,overdinkel.net,
-  website overdinkel,instellingen overdinkel,toerisme overdinkel,twente,
-  vrijetijd overdinkel,euregiofeest,voorzieningen Overdinkel,verenigingen overdinkel, 
-  historie overdinkel,dinkel,fietsen overdinkel,natuur overdinkel,winkels overdinkel,uitgaan overdinkel,carnaval overdinkel,
-  wandelen overdinkel,sport overdinkel,Sportclub Overdinkel,grensdorp,dorpsraad,losser,gemeente losser,riviertje,
-  voetbal overdinkel,trefhuus overdinkel,uitgaan overdinkel,inwoners overdinkel,grensdorp,stichtingen overdinkel,
-  diensten overdinkel,oosten,buurtschap,grens duitsland"/>
+    <meta name="keywords" content="dorp overdinkel, plaats overdinkel, overdinkel, overdinkel.net, 
+  overdinkel geschiedenis, overdinkel supermarkt, overdinkel snackbar, overdinkel vacatures,
+  overdinkel dorpsraad,overdinkel instellingen,overdinkel toerisme, overdinkel twente, overdinkel hoofdstraat,
+  overdinkel vrijetijd, euregiofeest,overdinkel voorzieningen, overdinkel verenigingen, 
+  historie overdinkel,dinkel, overdinkel wandelen,overdinkel natuur, overdinkel winkels, overdinkel carnaval,
+  wandelen overdinkel, sport overdinkel, grensdorp overdinkel, dorpsraad,overdinkel losser, gemeente losser, riviertje dinkel,
+  overdinkel voetbal, trefhuus overdinkel, overdinkel uitgaan, overdinkel grensdorp, overdinkel stichtingen,
+  overdinkel gemeente, overdinkel vroeger, overdinkel inwoners, overdinkel toerisme"/>
 
     <meta name="googlebot" content="noodp"/>
     <meta name="author" content="Sander Wegdam"/>
@@ -119,16 +120,16 @@
     <div class="nav-scroller py-1 mb-2">
         <nav class="nav d-flex navbar-expand-md justify-content-between">
             <li class="nav-item active">
-                <a class="p-2 text-muted" href="/index.php?pagina=historie">
+                <a class="p-2 text-muted" href="/index.php?pagina=historie" alt="Overdinkel historie">
                     <i class="fas fa-monument"></i>Historie</a></li>
             <li class="nav-item">
-                <a class="p-2 text-muted" href="/index.php?pagina=voorzieningen_1">
+                <a class="p-2 text-muted" href="/index.php?pagina=voorzieningen_1" alt="Overdinkel voorzieningen">
                     <i class="fas fa-info"></i>Voorzieningen</a></li>
             <li class="nav-item">
-                <a class="p-2 text-muted" href="/index.php?pagina=vrijetijd_1">
+                <a class="p-2 text-muted" href="/index.php?pagina=vrijetijd_1" alt="Overdinkel vrijetijd">
                     <i class="fas fa-archway"></i>Instellingen</a></li>
             <li class="nav-item">
-                <a class="p-2 text-muted" href="/index.php?pagina=toerisme">
+                <a class="p-2 text-muted" href="/index.php?pagina=toerisme" alt="Overdinkel toerisme">
                     <i class="fas fa-coffee"></i>Toerisme</a></li>
             </ul>
         </nav>
