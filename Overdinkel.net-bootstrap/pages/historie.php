@@ -2,16 +2,16 @@
       <div class="row">
         <div class="col-md-8 main">
           <h3 class="pb-3 mb-4 font-italic border-bottom">
-          U vindt op deze site informatie
-          over het grensdorp Overdinkel.
+          Twente
           </h3>
-
           <div class="post">
-            <h2 class="post-title">Twente</h2>
-            <p><br />Overdinkel is een dorp in de Nederlandse provincie Overijssel, in het uiterste oosten van de streek Twente, 
+            <p>Overdinkel is een dorp in de Nederlandse provincie Overijssel, in het uiterste oosten van de streek Twente,
             onmiddellijk aan de grens met Duitsland.</p>
+            Overdinkel was tot 1890 een heel rustige boerengemeenschap totdat aan de andere kant van de grens in Gronau textielfabrieken werden gebouwd.
             Waar het huidige dorp Overdinkel 
             ligt was tot ver in de negentiende eeuw slechts heide en woeste grond met de namen Overdinkelse Veld en het Witte Zand.</p>
+              De mooie plekken van het dorp liggen voornamelijk buiten het dorp, zo blijkt uit de dorpsgesprekken. Het Tiekenveen, de Oelermars, de Ruhenbergerbeek en het Lagapad worden veelvuldig genoemd.
+              In de kern worden de Muziekkoepel en het processiebos achter de kerk vaak genoemd als de mooiste plekjes.
             Overdinkel valt onder de gemeente Losser en ligt aan de rivier de Dinkel. 
             </p> Het kende op 1 januari 2014 zo'n 4.200 inwoners.</p>
             <a href="http://dorpsraadoverdinkel.nl/category/historie-overdinkel/" target="_blank" alt="Historie Overdinkel">Historie Overdinkel</a>                     

@@ -2,13 +2,11 @@
       <div class="row">
         <div class="col-md-8 main">
           <h3 class="pb-3 mb-4 font-italic border-bottom">
-          U vindt op deze site informatie
-          over het grensdorp Overdinkel.
+              'T Trefhuus
           </h3>
-
           <div class="post">
-            <h2 class="post-title">'T Trefhuus</h2>
-            <p><br />In het Trefhuus kunt u het verleden van Overdinkel ontdekken. Er is een knipoog gemaakt naar het smokkelverleden van Overdinkel. 
+            <h2 class="post-title"></h2>
+            <p>In het Trefhuus kunt u het verleden van Overdinkel ontdekken. Er is een knipoog gemaakt naar het smokkelverleden van Overdinkel.
 <p> 
 De openbare ruimte bevat een ontmoetingsplein, een bar met terras en een grote zaal die gehuurd kan worden voor diverse doeleinden. 
 Al deze ruimtes zijn sfeervol ingericht vanuit het smokkelthema.

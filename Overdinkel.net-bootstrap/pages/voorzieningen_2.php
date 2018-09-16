@@ -1,24 +1,20 @@
 <main role="main" class="container">
       <div class="row">
         <div class="col-md-8 main">
-          <h3 class="pb-3 mb-4 font-italic border-bottom">
-          U vindt op deze site informatie
-          over het grensdorp Overdinkel.
+          <h3 class="pb-3 mb-4 font-italic border-bottom">Recreatie
           </h3>
-
           <div class="post">
-            <h2 class="post-title">Overdinkel</h2>
-            <p><br />De website probeert een overzicht te geven
-            van de vier belangrijkste aspecten van het dorp.
-            Het is een overzicht van links van de meeste verenigingen,
-            instellingen, stichtingen, diensten enz.<p>
-
-            We hebben geprobeerd om zo volledig mogelijk te zijn, 
-            maar mocht er onverhoopt toch iets ontbreken, 
-            dan horen wij dit graag via de ''contactknop''. <p>
-
-            Overdinkel.net valt onder toezicht van de dorpsraad.</p>
+            <h2 class="post-title"></h2>
+            <p>
+                Om een duurzaam beheer van het landschap mogelijk te maken wenst men meer mogelijkheden voor agrarisch natuurbeheer.
+                Recreatie die past in het landschap is welkom.<p></p>
+                Het liefst wil men voorzieningen waar men zelf ook nog iets aan heeft, op het vlak van dagrecreatie, zoals sauna / welness enz.
+                Tevens is verblijfsrecreatie gewenst.<p></p>
+                Graag ziet men dat de camping nieuw leven ingeblazen wordt.
+                De infrastructuur is immers al aanwezig. Hiervoor is wel een goede inpassing in het landschap noodzakelijk. <p>
+            </p>
             <hr>
+              <img src="images/aangezicht.jpg" class="img-responsive img-fluid rounded" style="width:480px;" alt="aangezicht Overdinkel">
          </div>         
         </div>
         <aside class="col-md-4 blog-sidebar">

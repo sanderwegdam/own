@@ -6,8 +6,7 @@
           over het grensdorp Overdinkel.
           </h3>
           <div class="post">
-            <h2 class="post-title">Overdinkel</h2>
-            <p><br />De website probeert een overzicht te geven
+            <p>De website probeert een overzicht te geven
             van de vier belangrijkste aspecten van het dorp.
             Het is een overzicht van links van de meeste verenigingen,
             instellingen, stichtingen, diensten enz.<p>

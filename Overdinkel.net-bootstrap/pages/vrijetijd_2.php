@@ -2,29 +2,26 @@
       <div class="row">
         <div class="col-md-8 main">
           <h3 class="pb-3 mb-4 font-italic border-bottom">
-          U vindt op deze site informatie
-          over het grensdorp Overdinkel.
-          </h3>
-
+              Muziekvereniging Concordia</h3>
           <div class="post">
-            <h2 class="post-title">Overdinkel</h2>
-            <p><br />De website probeert een overzicht te geven
-            van de vier belangrijkste aspecten van het dorp.
-            Het is een overzicht van links van de meeste verenigingen,
-            instellingen, stichtingen, diensten enz.<p>
+            <h2 class="post-title"></h2>
+            <p>Muziekvereniging “Concordia” werd op 27 september 1925 opgericht.
+                Concordia bestaat al meer dan 80 jaar.
+                Vroeger werd er gerepeteerd in het Verenigingsgebouw aan de Hoofdstraat.
+                vanaf 1986 heeft “Concordia” een eigen clubgebouw.<p></p>
+                Daar wordt gerepeteerd en er vinden regelmatig uitvoeringen en concerten plaats.<p></p>
+                Concordia is een bloeiende vereniging met
+                ongeveer 100 actieve leden, waaronder een A-orkest, een beginnersorkest, een drumband, een jeugd-drumband en een blokfluitgroep.<p>
 
-            We hebben geprobeerd om zo volledig mogelijk te zijn, 
-            maar mocht er onverhoopt toch iets ontbreken, 
-            dan horen wij dit graag via de ''contactknop''. <p>
 
-            Overdinkel.net valt onder toezicht van de dorpsraad.</p>
+            </p>
             <hr>
               <img src="images/Overdinkel-muziekkoepel.png" class="img-responsive img-fluid rounded" alt="muziekkoepel-overdnkel">
          </div>        
         </div>
         <aside class="col-md-4 blog-sidebar">
           <div class="p-3 mb-3 bg-light rounded">
-            <h4 class="font-italic">Instellingen</h4>
+            <h4 class="font-italic"></h4>
           <dl>
           <p>
           <dd class="style2">Muziek</dd>

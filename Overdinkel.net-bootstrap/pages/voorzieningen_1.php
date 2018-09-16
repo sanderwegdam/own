@@ -2,20 +2,17 @@
       <div class="row">
         <div class="col-md-8 main">
           <h3 class="pb-3 mb-4 font-italic border-bottom">
-          U vindt op deze site informatie
-          over het grensdorp Overdinkel.
+          Euregiofeest
           </h3>
-
           <div class="post">
-            <h2 class="post-title">Euregiofeest</h2>
-            <p><br />
+            <p>
 Elk jaar op 7 juli start het Euregiofeest een gezellig dorpsfeest in Overdinkel.<p> 
 Het is een feest voor jong en oud en er is voor iedereen wat te doen. 
 <p>De Hoofdstraat is twee dagen afgesloten voor het verkeer en de straat is omgetoverd tot een voetgangersdomein. 
 Het feest start op zaterdagochtend om 10.00 uur en gaat door tot de zondagmiddag 18.00 uur.
 <a href="http://www.euregiofeest.nl/" target="_blank" alt="Euregiofeest">Euregiofeest</a><hr>
-                  <img src="images/aangezicht.jpg" class="img-responsive img-fluid rounded" style="width:480px;" alt="aangezicht Overdinkel">
-              <hr>
+         <img src="images/activiteit-euregiofeest.jpg" class="img-responsive img-fluid rounded" style="width:480px;" alt="aangezicht Overdinkel">
+         <hr>
          </div>        
         </div>
         <aside class="col-md-4 blog-sidebar">

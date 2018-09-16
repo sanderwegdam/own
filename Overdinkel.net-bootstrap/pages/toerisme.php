@@ -2,12 +2,11 @@
       <div class="row">
         <div class="col-md-8 main">
           <h3 class="pb-3 mb-4 font-italic border-bottom">
-          U vindt op deze site informatie
-          over het grensdorp Overdinkel.
+          Kulturhus
           </h3>
           <div class="post">
-            <h2 class="post-title">Kulturhus</h2>
-            <p><br />Kulturhus 't Trefhuus is het hart van Overdinkel.<p>
+            <h2 class="post-title"></h2>
+            <p>Kulturhus 't Trefhuus is het hart van Overdinkel.<p>
             Jong en oud komt hier samen om (zoals de naam het al zegt) elkaar te treffen en te ontspannen.<p> 
             't Trefhuus is de ontmoetingsplek voor en door Overdinkelnaren.<p>
             <a href="http://www.trefhuus.nl/" target="_blank" alt="Kulturhus">'T Trefhuus</a>  
