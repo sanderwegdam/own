@@ -19,7 +19,7 @@
             Overdinkel.net valt onder toezicht van de dorpsraad.</p>
             <a href="http://dorpsraadoverdinkel.nl/dorpsvisie/" target="_blank" alt="Dorpsraad Overdinkel doelstelling">Dorpsraad Overdinkel</a> 
             <hr>
-            <img src="images/Overdinkel-muziekkoepel.png" class="img-responsive img-fluid rounded" alt="muziekkoepel-overdnkel">
+            <img src="images/bord-overdinkel.jpg" style="width:240px;" class="img-responsive img-fluid rounded" alt="muziekkoepel-overdnkel">
          </div>
         </div>
         <aside class="col-md-4 blog-sidebar">
@@ -27,7 +27,7 @@
             <h4 class="font-italic">Grensdorp</h4><br>
             <p class="mb-0">Overdinkel ligt ten zuidoosten van het dorp Losser aan de andere zijde van de Dinkel, waaraan het zijn naam ontleent. 
               </p>In het oosten en zuiden grenst het aan Duitsland.<p><p></p>
-            <img src="images/overdinkel.png" class="img-responsive img-fluid rounded" alt="plaats-overdnkel"><p></p>
+            <img src="images/overdinkel.png" class="img-responsive img-fluid rounded" alt="plaats overdnkel"><p></p>
                   <a href="https://www.weerplaza.nl/nederland/overdinkel/15253/" target="_blank" alt="Weer nu in Overdinkel">Weersverwachting</a>
           </div>
         </aside>

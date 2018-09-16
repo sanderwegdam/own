@@ -13,7 +13,7 @@
 De openbare ruimte bevat een ontmoetingsplein, een bar met terras en een grote zaal die gehuurd kan worden voor diverse doeleinden. 
 Al deze ruimtes zijn sfeervol ingericht vanuit het smokkelthema.
 <a href="http://www.trefhuus.nl/" target="_blank" alt="Kulturhus">'T Trefhuus</a><hr>
-<img src="images/Overdinkel_Trefhuus.jpg" class="img-responsive img-fluid rounded" alt="Trefhuus-overdnkel">            
+              <img src="images/Overdinkel_Trefhuus.jpg" class="img-responsive img-fluid rounded" alt="Trefhuus-overdnkel">
          </div>        
         </div>
         <aside class="col-md-4 blog-sidebar">

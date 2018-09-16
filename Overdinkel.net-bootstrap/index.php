@@ -2,6 +2,9 @@
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
+
+    <title>Overdinkel - Dorp Overdinkel</title>
+
     <meta charset="utf-8">
     <meta content="index,follow"/>
     <meta name="channel" content="Developer"/>
@@ -67,7 +70,7 @@
   historie overdinkel,dinkel, overdinkel wandelen,overdinkel natuur, overdinkel winkels, overdinkel carnaval,
   wandelen overdinkel, sport overdinkel, grensdorp overdinkel, dorpsraad,overdinkel losser, gemeente losser, riviertje dinkel,
   overdinkel voetbal, trefhuus overdinkel, overdinkel uitgaan, overdinkel grensdorp, overdinkel stichtingen,
-  overdinkel gemeente, overdinkel vroeger, overdinkel inwoners, overdinkel toerisme"/>
+  overdinkel gemeente, overdinkel vroeger, overdinkel inwoners, overdinkel toerisme, overdinkel sauna"/>
 
     <meta name="googlebot" content="noodp"/>
     <meta name="author" content="Sander Wegdam"/>
@@ -89,7 +92,7 @@
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css"
           integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
-    <title>Overdinkel.net</title>
+
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
             integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
             crossorigin="anonymous"></script>

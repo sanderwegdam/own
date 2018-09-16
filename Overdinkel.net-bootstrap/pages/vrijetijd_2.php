@@ -19,6 +19,7 @@
 
             Overdinkel.net valt onder toezicht van de dorpsraad.</p>
             <hr>
+              <img src="images/Overdinkel-muziekkoepel.png" class="img-responsive img-fluid rounded" alt="muziekkoepel-overdnkel">
          </div>        
         </div>
         <aside class="col-md-4 blog-sidebar">
@@ -36,7 +37,7 @@
           <p>
           <dd class="style2">Uitgaan</dd>
           <p>
-          <dd><a href="https://www.borrelsenbabbels.nl/" target="_blank" alt="Borrels & Babbels">Borrels & Babbels</a></dd>
+          <dd><a href="https://www.telefoonboek.nl/bedrijven/t4675031/overdinkel/oos-cafe/" target="_blank" alt="Oos Café">Oos Café</a></dd>
           <dd><a href="http://www.nova88.nl" target="blank" alt="Café Geerdink">Café Geerdink</a></dd>
           <dd><a href="http://drimble.nl/bedrijf/overdinkel/27457494/cafe-de-herberg-vof.html" target="blank" alt="Café De Herberg">Café De Herberg</a></dd>
           <dd><a href="http://www.partycentrumdrost.nl/" target="blank" alt="Partycentrum Drost">Partycentrum Drost</a></dd>

@@ -26,13 +26,12 @@
             <h4 class="font-italic">Voorzieningen</h4>
             <p>
               <dl>                  
-            <dd><a h<dd><a href="http://www.clusterlosser.nl/blog/?p=193" target="_blank" alt="Kinderdagverblijf Kidsstop">Peuterspeelzaal Ot en Sien</a></dd>
-            <dd><a href="http://www.skekinderopvang.nl/" target="_blank" alt="Kinderopvang Humanitas, regio SKE">Kinderopvang SKE</a></dd>
+            <dd><a h<dd><a href="https://welzijn.stichtingfundament.nl/" target="_blank"
+                           alt="Stichting Fundament">Stichting Fundament</a></dd>
+            <dd><a href="http://www.skekinderopvang.nl/" target="_blank" alt="Kinderopvang Humanitas">Kinderopvang</a></dd>
             <dd><a href="https://www.trefhuus.nl/" target="_blank" alt="Trefpunt">Het kulturhus</a></dd>
-            <dd><a href="http://maps.google.nl/maps?f=q&source=s_q&hl=nl&geocode=&q=J.Z.+Kayser,+tandarts&sll=52.469397,5.509644&sspn=3.065514,10.788574&ie=UTF8&ei=Wja9Se7rFKe4oAPwm9myBg&attrid=&cd=1&cid=52239200,7033850,1190487659245815983&li=lmd&z=14&t=m" target="_blank" alt="Tandarts Kayser">Tandarts Kayser</a></dd>
-            <dd><a href="http://www.artsenpraktijkmeijer.nl/" target="_blank" alt="Dr Meijer">Artsenpraktijk Meijer</a></dd>
-            <dd><a href="https://huisartsbrandenburg.praktijkinfo.nl/" target="_blank" alt="Huisarts Brandenburg">Huisarts Brandenburg</a></dd>
-            <dd><a href="https://hetveld.praktijkinfo.nl/" target="_blank" alt="Dr Biewenga">Huisartsenpraktijk 't Veld</a></dd>
+            <dd><a href="https://www.syntusoverijssel.nl/?_ga=2.171534121.828830681.1537076580-27313627.1537076580" target="_blank"
+                   alt="Syntus">Syntus Overijssel</a></dd>
             <dd><a href="http://www.connexxion.nl/" target="_blank" alt="Connexxion">Connexxion</a></dd>
             <dd><a href="http://www.bibliotheeklosser.nl/" target="_blank" alt="Bibliotheek">Bibliotheek</a></dd>
             <dd><a href="http://www.domijn.nl" target="_blank" alt="Woningcorporatie">Woniningcorporatie</a></dd>
@@ -49,7 +48,7 @@
             Overdinkel </a></dd>
             <dd><a href="http://www.losser.nl/" target="_blank" alt="Gemeente Losser">Gemeente Losser</a></dd>  
             <dd><a href="http://www.auto-reuvers.nl/" target="_blank" alt="Auto Reuvers">Auto Reuvers</a></dd>
-            <dd><a href="http://www.detelefoongids.nl/bg-l/17925070-Ryma/vermelding/" target="_blank" alt="Ryma - aannemers">Ryma - aannemers</a></dd>
+            <dd><a href="https://www.detelefoongids.nl/ryma/17925070/5-1/" target="_blank" alt="Ryma - aannemers">Ryma - aannemers</a></dd>
             </dl>
             <nav class="pagination">
             <a class="btn btn-outline-primary" href="<?php echo $_SERVER['PHP_SELF'] . "?pagina=voorzieningen_1"; ?>">1</a>
