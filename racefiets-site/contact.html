@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <title>Contactpagina</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/nav-toggle.css">
+  <link rel="stylesheet" href="css/nav.css">
+  <link rel="stylesheet" href="css/contact.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
+</head>
+
+<body>
+	<div class="container">	
+		<header>
+		<div class="logo">
+			<a href="index.html">
+				<img alt="Logo Racefietsen 2020" src="https://us.123rf.com/450wm/sakramir/sakramir1507/sakramir150700002/42146580-fietser-silhouet-pictogram-logo-teken-abstract-template-design-element-voor-logo-of-illustreren-wiel.jpg?ver=6">
+			</a>
+		</div>
+		<nav>
+		<div id="menuToggle">
+			<input type="checkbox" />
+			<span></span>
+			<span></span>
+			<span></span>		
+			<ul id="menu">
+				<li><a href="index.html">Home</a></li>		
+				<li><a class="racefietsen">Racefietsen</a>				
+				<ul>
+					<li><a href="merken.html">Merken</a>	
+					<li><a href="pinarello.html">Pinarello</a></li>
+					<li><a href="cannondale.html">Cannondale</a></li>	
+				</ul>	
+				</li>
+				<li><a href="contact.html">Contact</a></li>			
+			</ul>
+		</div>
+		</nav>
+		<div class="mapouter">
+			<div class="gmap_canvas">			
+				<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=6.664924621582032%2C52.153293169484414%2C6.986274719238282%2C52.2935724375865&amp;layer=mapnik"></iframe>	
+			</div>
+		</div>		
+		</header>
+		<main>			
+			<section class="grid">
+				<h2>Contact</h2>	
+				<p>Geef uw gegevens op</p>		
+			</section>	
+				<form id="contact" action="http://jkorpela.fi/cgi-bin/echo.cgi">							
+					<fieldset>						
+							<label for="naam">Naam: </label>
+							<input type="text" id="naam" maxlength="20" size="20" name="naam" autocomplete="on" required><small></small>
+							<label for="telefoonnummer">Telefoonnummer: </label>
+							<input type="tel" id="telefoonnummer" size="20"  maxlength="15" placeholder="0647890546" title="Een telefoonnummer bestaat minimaal uit 10 cijfers" name="telefoonnummer" 
+							pattern="[0-9.\-\s]{10,15}"><small></small>
+							<label for="e-mail">Email: </label>
+							<input type="email" id="e-mail" placeholder="iemand@domein.nl" size="20" name="e-mail" pattern="^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$" 
+							autocomplete="on" required><small></small>		
+							<label for="bericht">Bericht:</label>
+							<textarea id="bericht" name="bericht" rows="5" cols="15" required></textarea>							
+							<input class="versturen" name="versturen" type="submit" value="Versturen">								
+					</fieldset>	
+				</form>			
+		</main>     
+		<footer>
+			<p>&copy; Racefietsen 2020</p>
+		</footer>	
+</div>
+</body>
+</html>

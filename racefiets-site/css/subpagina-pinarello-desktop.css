@@ -1,0 +1,241 @@
+@import url(normalize.css);
+
+@media screen and (min-width: 48em) and (max-width: 64em) { /* 768px */
+
+.content{
+	display: block;
+}
+
+.content article {
+	display: block;	
+	max-width: 70%;
+	margin: 0 auto;	
+	margin-top: 30px;
+	height: 100%;
+	text-align: center;
+	border: 2px solid red;
+	padding: 50px;
+	border-radius: 50px 20px;  
+}
+
+.content article > img {
+	display: flex;
+	width: 40%;
+	margin: 0 auto; 
+	height: auto;
+}
+
+.content article > p {
+	text-align: center;
+	justify-content: center;
+	margin-top: 20px;
+	list-style-position: inside;
+	display: flex;
+	color: black;
+	font-size: 1em;  
+}
+
+.info article > section{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	border: 2px solid rgba(0,0,0,0.2);	
+	max-width: 50%;
+	margin-top: 0px;
+	height: 300px;
+	margin: 0 auto;
+	padding: 100px;
+	text-align: center; 
+}
+
+.info article > section > div[class^="foto"] { 
+	display: block;
+	margin-top: 0px;
+	margin-left: -50px;
+}
+
+.info article > section > div > img {	
+	display: flex;
+	width: 50%;	  
+	align-items: center;
+}
+
+.info article > section > div > h2 {	
+	display: flex;
+	align-items: center;
+	font-size: 1em;
+}
+
+.info article > section > p {
+	position: relative;
+	display: flex;
+	padding: 0;
+	top: 0px;
+	margin-left: 250px;
+	margin-top: -500px;
+	text-align: left;
+	font-size: 0.7em;
+	width: 300px;
+}
+}
+
+@media only screen and (min-width: 64em) and (max-width: 80em) { /* 1024px */
+
+.content{
+	display: block;
+}
+
+.content article {
+	display: block;	
+	max-width: 70%;
+	margin: 0 auto;	
+	margin-top: 30px;
+	height: 100%;
+	text-align: center;
+	border: 2px solid red;
+	padding: 50px;
+	border-radius: 50px 20px;  
+}
+
+.content article > img {
+	display: flex;
+	width: 40%;
+	margin: 0 auto; 
+	height: auto;
+}
+
+.content article > p {
+	text-align: center;
+	justify-content: center;
+	margin-top: 20px;
+	list-style-position: inside;
+	display: flex;
+	color: black;
+	font-size: 1em;  
+}
+
+.info article > section{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	border: 2px solid rgba(0,0,0,0.2);	
+	max-width: 50%;
+	margin-top: 0px;
+	height: 300px;
+	margin: 0 auto;
+	padding: 100px;
+	text-align: center; 
+}
+
+.info article > section > div[class^="foto"] { 
+	display: block;
+	margin-top: 0px;
+	margin-left: -50px;
+}
+
+.info article > section > div > img {	
+	display: flex;
+	width: 50%;	  
+	align-items: center;
+}
+
+.info article > section > div > h2 {	
+	display: flex;
+	align-items: center;
+	font-size: 1em;
+}
+
+.info article > section > p {
+	position: relative;
+	display: flex;
+	padding: 0;
+	top: 0px;
+	margin-left: 350px;
+	margin-top: -500px;
+	text-align: left;
+	font-size: 0.8em;
+	width: 300px;
+}
+}
+
+@media screen and (min-width: 80em) { /* 1280px */
+
+.content{
+	display: block;
+}
+
+.content article {
+	display: block;	
+	max-width: 70%;
+	margin: 0 auto;	
+	margin-top: 20px;
+	height: 100%;
+	text-align: center;
+	border: 2px solid red;
+	padding: 50px;
+	border-radius: 50px 20px;  
+}
+
+.content article > img {
+	display: flex;
+	width: 30%;
+	margin: 0 auto; 
+	height: auto;
+}
+
+.content article > p {
+	text-align: center;
+	justify-content: center;
+	margin-top: 30px;
+	list-style-position: inside;
+	display: flex;
+	color: black;
+	font-size: 1em;  
+}
+
+.info article > section{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	border: 2px solid rgba(0,0,0,0.2);	
+	max-width: 60%;
+	margin-top: 0px;
+	height: 300px;
+	margin: 0 auto;
+	padding: 100px;
+	text-align: center; 
+}
+
+.info article > section > div[class^="foto"] { 
+	display: block;
+	margin-top: 0px;
+	margin-left: -50px;
+}
+
+.info article > section > div > img {	
+	display: flex;
+	width: 50%;	  
+	align-items: center;
+}
+
+.info article > section > div > h2 {	
+	display: flex;
+	align-items: center;
+	font-size: 1em;
+}
+
+.info article > section > p {
+	position: relative;
+	display: flex;
+	padding: 0;
+	top: 0px;
+	margin-left: 500px;
+	margin-top: -600px;
+	text-align: left;
+	font-size: 0.9em;
+	width: 400px;
+}
+}

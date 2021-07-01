@@ -1,0 +1,901 @@
+@import url(normalize.css);
+
+body {
+	background-color: #ffffff;
+	font-family: 'Roboto Condensed';
+	font-size: 1.25rem;	
+	border: 0;
+}
+
+.container > * {	
+	margin: 0;
+	border: 0;
+}
+
+footer {
+	text-align:center;
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+footer > p {
+	color: black;
+	text-transform: none;	
+	margin-top: 30px;
+	margin-bottom: 0px;
+	height: auto;
+	padding: 0;
+}
+
+@media only screen and (min-width: 0em) { 
+
+h1 {
+	border: 2px solid red;
+	display: block;	
+	width: 40%;
+	margin: 0 auto;	
+	margin-top: 30px;
+	height: 100%;
+	text-align: center;
+	border: 2px solid red;
+	padding: 50px;
+	border-radius: 50px 20px;  
+}
+
+.voorbeelden > ul {		
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-top: 100px; 
+	padding: 0px;	
+	margin-bottom: 0px;
+}
+	
+.voorbeelden ul > li {
+	display: flex;	
+	margin-top: 0px;
+	padding: 0px;
+	width: 100%;
+	height: 360px;
+	justify-content: center;
+}
+
+.voorbeelden ul > li[class^="merk"] {
+	display: flex;
+	flex: 1 1 100%;
+}
+
+.voorbeelden li:nth-child(1) {
+	background-image: url("../images/pinarello-merk.jpg");
+	background-size: 100%;
+	margin-top: 5px;
+	background-position: center;
+	flex: auto;
+	margin-top: 5px;
+	justify-content: center;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(2) {
+	background-image: url("../images/cannondale-merk.jpg");
+	flex: auto;
+	margin-top: 5px;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(3) {
+	background-image: url("../images/trek-merk.jpg");	
+	flex: auto;		
+	background-size: 100%;
+	margin-top: 5px;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(4) {	
+	background-image: url("../images/giant-merk.jpg");
+	flex: auto;
+	margin-top: 5px;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.modellen > ul {		
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-top: -250px; 
+	padding: 0px;	
+	margin-bottom: 0px;
+	justify-content: center;
+}
+	
+.modellen ul > li {
+	display: flex;	
+	margin-top: -50px;
+	padding: 0px;
+	height: 240px;
+	width: 90%;
+	max-width: 70%;
+	text-align: center;
+	justify-content: center;
+}
+
+.modellen ul > li[class^="model"] {
+	display: flex;
+	flex: 1 1 100%;
+}
+
+.modellen li:nth-child(1) {
+	background-image: url("../images/pinarello.jpg");
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex: auto;
+	justify-content: center;	
+	border-style: none;
+}
+
+.modellen li:nth-child(2) {
+	margin-left: 2px;
+	background-image: url("../images/cannondale.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+
+.modellen li:nth-child(3) {
+	margin-top: 5px;
+	background-image: url("../images/trek.jpg");	
+	flex: auto;		
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+
+.modellen li:nth-child(4) {		
+	margin-top: 5px;
+	margin-left: 2px;
+	background-image: url("../images/giant.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+}
+
+@media only screen and (min-width: 20em) { /* 320px */
+
+h1 {
+	border: 2px solid red;
+	display: block;	
+	width: 50%;
+	margin: 0 auto;	
+	margin-top: 30px;
+	height: 100%;
+	text-align: center;
+	border: 2px solid red;
+	padding: 50px;
+	border-radius: 50px 20px;  
+}
+
+.voorbeelden > ul {		
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-top: 100px; 
+	padding: 0px;	
+	justify-content: center;
+	margin-bottom: -250px;
+}
+	
+.voorbeelden ul > li {
+	display: flex;	
+	margin-top: 0px;
+	padding: 50px;
+	width: 90%;
+	max-width: 70%;
+	padding: 10px;
+	height: 280px;
+	justify-content: center;
+}
+
+.voorbeelden ul > li[class^="merk"] {
+	display: flex;
+	flex: 1 1 100%;
+}
+
+.voorbeelden li:nth-child(1) {
+	background-image: url("../images/pinarello-merk.jpg");
+	background-size: 100%;
+	background-position: center;
+	flex: auto;
+	margin-top: 5px;
+	justify-content: center;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(2) {
+	margin-left: 2px;
+	background-image: url("../images/cannondale-merk.jpg");
+	flex: auto;
+	margin-top: 5px;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(3) {
+	background-image: url("../images/trek-merk.jpg");	
+	flex: auto;		
+	background-size: 100%;
+	margin-top: 5px;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(4) {	
+	margin-left: 2px;
+	background-image: url("../images/giant-merk.jpg");
+	flex: auto;
+	margin-top: 5px;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.modellen > ul {		
+	display: flex;
+	margin-top: -450px;
+	flex-direction: row;
+	flex-wrap: wrap;
+	padding: 0px;
+	width: 100%;	
+	justify-content: center;
+	margin: 0 auto;
+	margin-bottom: 0px;
+}
+	
+.modellen ul > li {
+	display: flex;
+	margin-top: -50px;
+	padding: 0px;
+	height: 360px;
+	width: 100%;
+	text-align: center;
+	justify-content: center;
+}
+
+.modellen ul > li[class^="model"] {
+	margin-top: 0px;
+	display: flex;
+	flex: 1 1 100%;	
+}
+
+.modellen li:nth-child(1) {
+	margin-top: 5px;
+	background-image: url("../images/pinarello.jpg");
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex: auto;
+	justify-content: center;	
+	border-style: none;
+}
+
+.modellen li:nth-child(2) {
+	margin-top: 5px;
+	background-image: url("../images/cannondale.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+
+.modellen li:nth-child(3) {
+	margin-top: 5px;
+	background-image: url("../images/trek.jpg");	
+	flex: auto;		
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+
+.modellen li:nth-child(4) {		
+	margin-top: 5px;
+	background-image: url("../images/giant.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+}
+
+@media only screen and (min-width: 40em) { /* 640px */
+
+.voorbeelden > ul {		
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-top: 100px; 
+	padding: 0px;	
+	margin-bottom: 0px;
+}
+	
+.voorbeelden ul > li {
+	display: flex;	
+	margin-top: 0px;
+	padding: 0px;
+	width: 49%;
+	height: 320px;
+	text-align: center;
+	justify-content: center;
+}
+
+.voorbeelden ul > li[class^="merk"] {
+	display: flex;
+	flex: 1 1 49%;
+}
+
+.voorbeelden li:nth-child(1) {
+	background-image: url("../images/pinarello-merk.jpg");
+	background-size: 100%;
+	background-position: center;
+	flex: auto;
+	justify-content: center;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(2) {
+	margin-left: 2px;
+	background-image: url("../images/cannondale-merk.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(3) {
+	background-image: url("../images/trek-merk.jpg");	
+	flex: auto;		
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(4) {	
+	margin-left: 2px;
+	background-image: url("../images/giant-merk.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.modellen > ul {		
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-top: -250px; 
+	height: 440px;
+	padding: 0px;	
+	margin-bottom: 0px;
+	
+}
+
+.modellen ul > li{
+	display: flex;	
+	margin-top: -50px;
+	padding: 0px;
+	height: 240px;
+	width: 49%;
+	text-align: center;
+	justify-content: center;
+}
+	
+.modellen ul > li[class^="model"] {
+	display: flex;
+	flex: 1 1 49%;
+	margin-top: 50px;
+}
+
+.modellen li:nth-child(1) {
+	background-image: url("../images/pinarello.jpg");
+	background-size: 100%;
+	background-position: center;
+	flex: auto;
+	justify-content: center;
+	border-style: none;
+}
+
+.modellen li:nth-child(2) {
+	margin-left: 2px;
+	background-image: url("../images/cannondale.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+
+.modellen li:nth-child(3) {
+	background-image: url("../images/trek.jpg");	
+	flex: auto;		
+	margin-top: 5px;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+
+.modellen li:nth-child(4) {	
+	margin-top: 5px;
+	margin-left: 2px;
+	background-image: url("../images/giant.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+
+footer {
+	text-align:center;
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+footer > p {
+	color: black;
+	text-transform: none;	
+	margin-top: 400px;
+	height: auto;
+	margin-bottom: 0px;
+	padding: 0;
+}
+}
+
+@media screen and (min-width: 48em) and (max-width: 64em) { /* 768px */
+
+.voorbeelden > ul {		
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-top: 100px; 
+	padding: 0px;	
+	margin-bottom: 0px;
+}
+	
+.voorbeelden ul > li {
+	display: flex;	
+	margin-top: -50px;
+	padding: 0px;
+	height: 480px;
+	max-width: 49%;
+	text-align: center;
+	justify-content: center;
+}
+
+.voorbeelden ul > li[class^="merk"] {
+	display: flex;
+	flex: 1 1 49%;
+}
+
+.voorbeelden li:nth-child(1) {
+	background-image: url("../images/pinarello-merk.jpg");
+	background-size: 100%;
+	background-position: center;
+	flex: auto;
+	justify-content: center;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(2) {
+	margin-left: 2px;
+	background-image: url("../images/cannondale-merk.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(3) {
+	background-image: url("../images/trek-merk.jpg");	
+	flex: auto;
+	margin-top: 5px;	
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(4) {	
+	margin-left: 2px;
+	background-image: url("../images/giant-merk.jpg");
+	flex: auto;
+	margin-top: 5px;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.modellen > ul {		
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-top: -350px; 
+	padding: 0px;	
+	margin-bottom: 0px;
+}
+	
+.modellen ul > li {
+	display: flex;	
+	margin-top: -50px;
+	padding: 0px;
+	height: 320px;
+	max-width: 49%;
+	text-align: center;
+	justify-content: center;
+}
+
+.modellen ul > li[class^="model"] {
+	display: flex;
+	flex: 1 1 49%;
+}
+
+.modellen li:nth-child(1) {
+	background-image: url("../images/pinarello.jpg");
+	background-size: 100%;
+	background-position: center;
+	flex: auto;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+
+.modellen li:nth-child(2) {
+	margin-left: 2px;
+	background-image: url("../images/cannondale.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+
+.modellen li:nth-child(3) {
+	background-image: url("../images/trek.jpg");	
+	margin-top: 5px;
+	flex: auto;		
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+
+.modellen li:nth-child(4) {	
+	margin-top: 5px;
+	margin-left: 2px;
+	background-image: url("../images/giant.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+}
+
+@media only screen and (min-width: 64em) and (max-width: 80em) { /* 1024px */
+
+.voorbeelden > ul {		
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-top: 100px; 
+	padding: 0px;	
+	margin-bottom: 0px;
+}
+	
+.voorbeelden ul > li {
+	display: flex;	
+	margin-top: -50px;
+	padding: 0px;
+	height: 240px;
+	max-width: 25%;
+	text-align: center;
+	justify-content: center;
+}
+
+.voorbeelden ul > li[class^="merk"] {
+	display: flex;
+	flex: 1 1 24%;
+}
+
+.voorbeelden li:nth-child(1) {
+	background-image: url("../images/pinarello-merk.jpg");
+	background-size: 100%;
+	background-position: center;
+	flex: auto;
+	justify-content: center;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(2) {
+	margin-left: 2px;
+	background-image: url("../images/cannondale-merk.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(3) {
+	background-image: url("../images/trek-merk.jpg");	
+	flex: auto;		
+	margin-left: 2px;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(4) {	
+	margin-left: 2px;
+	background-image: url("../images/giant-merk.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.modellen > ul {		
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-top: -150px; 
+	padding: 0px;	
+	margin-bottom: 0px;
+}
+	
+.modellen ul > li {
+	display: flex;	
+	margin-top: -150px;
+	padding: 0px;
+	height: 480px;
+	max-width: 49%;
+	text-align: center;
+	justify-content: center;
+}
+
+.modellen ul > li[class^="model"] {
+	display: flex;
+	flex: 1 1 49%;
+	margin-top: 0px;
+}
+
+.modellen li:nth-child(1) {
+	background-image: url("../images/pinarello.jpg");
+	background-size: 100%;
+	background-position: center;
+	flex: auto;
+	justify-content: center;
+	border-style: none;
+}
+
+.modellen li:nth-child(2) {
+	margin-left: 2px;
+	background-image: url("../images/cannondale.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+
+.modellen li:nth-child(3) {
+	background-image: url("../images/trek.jpg");	
+	flex: auto;		
+	margin-top: 5px;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+
+.modellen li:nth-child(4) {	
+	margin-top: 5px;
+	margin-left: 2px;
+	background-image: url("../images/giant.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+
+footer {
+	text-align:center;
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+footer > p {
+	position: relative;
+	color: black;
+	text-transform: none;	
+	margin-top: 600px;
+	height: auto;
+	margin-bottom: 0px;
+	padding: 0;
+	bottom: 0;
+}
+}
+
+@media screen and (min-width: 80em) { /* 1280px */
+
+.voorbeelden > ul {		
+	display: flex;	
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-top: 100px; 
+	padding: 0px;	
+	margin-bottom: 0px;
+}
+	
+.voorbeelden ul > li {
+	display: flex;	
+	margin-top: -50px;
+	padding: 0px;
+	height: 320px;
+	max-width: 25%;
+	text-align: center;
+	justify-content: center;
+}
+
+.voorbeelden ul > li[class^="merk"] {
+	display: flex;
+	flex: 1 1 24%;	
+}
+
+.voorbeelden li:nth-child(1) {
+	background-image: url("../images/pinarello-merk.jpg");
+	background-size: 100%;
+	background-position: center;
+	flex: auto;
+	justify-content: center;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(2) {
+	margin-left: 2px;
+	background-image: url("../images/cannondale-merk.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(3) {
+	background-image: url("../images/trek-merk.jpg");	
+	margin-left: 2px;
+	flex: auto;		
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.voorbeelden li:nth-child(4) {	
+	margin-left: 2px;
+	background-image: url("../images/giant-merk.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid #000;
+}
+
+.modellen > ul {		
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-top: -200px; 
+	padding: 0px;	
+	margin-bottom: 0px;	
+	height: 640px;
+}
+	
+.modellen ul > li {
+	display: flex;	
+	margin-top: 0px;
+	padding: 0px;
+	height: 640px;
+	max-width: 50%;
+	text-align: center;
+	justify-content: center;
+}
+
+.modellen ul > li[class^="model"] {
+	display: flex;
+	flex: 1 1 49%;
+	margin-top: 0px;
+}
+
+.modellen li:nth-child(1) {
+	background-image: url("../images/pinarello.jpg");
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex: auto;
+	justify-content: center;	
+	border-style: none;
+}
+
+.modellen li:nth-child(2) {
+	margin-left: 2px;
+	background-image: url("../images/cannondale.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat; 
+	border-style: none;
+	
+}
+
+.modellen li:nth-child(3) {
+	margin-top: 5px;
+	background-image: url("../images/trek.jpg");	
+	flex: auto;		
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+}
+
+.modellen li:nth-child(4) {	
+	margin-top: 5px;
+	margin-left: 2px;
+	background-image: url("../images/giant.jpg");
+	flex: auto;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-style: none;
+	
+}
+footer {
+	text-align:center;
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+footer > p {
+	position: relative;
+	color: black;
+	text-transform: none;	
+	margin-top: 700px;
+	height: auto;
+	margin-bottom: 0;
+	padding: 0;
+	bottom: 0;
+}
+}
