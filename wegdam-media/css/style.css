@@ -7,9 +7,20 @@
 }
 
 header, header .header-content {
-    position: relative;
+    position: relative !important;
     width: 100%;
-    text-align: center
+    text-align: center;
+}
+
+.header-content-inner > a{
+    position: relative;
+    top: -400px;    
+}
+
+h3 > span{
+    position: relative;
+    top: -370px;
+    font-size: 0.8em !important;  
 }
 
 body, html {
@@ -32,6 +43,7 @@ hr {
 }
 
 hr.light {
+    
     border-color: #fff
 }
 
@@ -41,7 +53,7 @@ a {
 }
 
 a:focus, a:hover {
-    color: #000
+    color: #000 !important;
 }
 
 p {
@@ -89,7 +101,7 @@ aside {
 .navbar-default .navbar-header .navbar-brand {
     color: #000;
     font-weight: 700;
-    margin-top: -20px;
+    margin-top: -10px;
     text-transform: uppercase
 }
 
@@ -100,33 +112,53 @@ aside {
 .navbar-default .navbar-header .navbar-toggle {
     font-weight: 700;
     font-size: 12px;
-    color: #222;
-    text-transform: uppercase
+    text-transform: uppercase;     
 }
 
-.navbar-default .nav > li > a, .navbar-default .nav > li > a:focus {
+.navbar-toggle:hover{
+    color: black !important;
+    background-color: inherit !important;
+}
+
+.navbar-default .nav > li > a, .navbar-default .nav > li > a {
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 13px;
-    margin-top: 20px;
-    margin-bottom:20px;
-    color: #222
+    font-size: 13px !important;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0 auto !important;
+    color: black !important;
+    height: 0px !important;
 }
 
 .navbar-default .nav > li > a:focus:hover, .navbar-default .nav > li > a:hover {
-    color: #000
+    color: #000;
+    padding-left: 10px;    
+    font-size: 1.5em !important;
 }
 
 .navbar-default .nav > li.active > a, .navbar-default .nav > li.active > a:focus {
     color: #000 !important;
-    background-color: transparent
+    background-color: transparent !important;
 }
 
 .navbar-default .nav > li.active > a:focus:hover, .navbar-default .nav > li.active > a:hover {
-    background-color: transparent
+    background-color: transparent !important;
 }
 
 @media (min-width: 768px) {
+
+    .header-content-inner > a{
+        position: relative;
+        top: -120px;
+    }
+
+    h3 > span{
+        position: relative;
+        top: -90px;
+        font-size: 1.2em !important;  
+    }
+
     .navbar-default {
         background-color: transparent;
         border-color: rgba(255, 255, 255, .3)
@@ -189,9 +221,10 @@ header .header-content {
 header .header-content .header-content-inner h1 {
     font-weight: 700;
     text-transform: uppercase;
-    margin-top: 0;
-    margin-bottom: 0;
-    font-size: 30px
+    margin-top: 80px;
+    margin-bottom: 30px;
+    text-shadow: 1px 1px  #fff;
+    font-size: 25px
 }
 
 header .header-content .header-content-inner hr {
@@ -227,7 +260,8 @@ header .header-content .header-content-inner p {
     }
 
     header .header-content .header-content-inner h1 {
-        font-size: 50px
+        font-size: 30px !important;
+        text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
     }
 
     header .header-content .header-content-inner p {
@@ -248,6 +282,7 @@ header .header-content .header-content-inner p {
 }
 
 @media (min-width: 992px) {
+
     .service-box {
         margin: 20px auto 0
     }
@@ -311,6 +346,50 @@ header .header-content .header-content-inner p {
 .portfolio-box:focus {
     outline: 0
 }
+
+
+@media (min-width: 1440px) {
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .arrow {
+    display: inline-block;
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    background: transparent;
+    text-indent: -9999px;
+    border-top: 2px solid #bfbfbf;
+    border-left: 2px solid #bfbfbf;
+    transition: all 250ms ease-in-out;
+    text-decoration: none;
+    color: black;
+  }
+  
+  .arrow:hover {
+    border-color: black;
+    border-width: 5px;
+  }
+  
+  .arrow:before {
+    display: block;
+    height: 200%;
+    width: 200%;
+    margin-left: -50%;
+    margin-top: -50%;
+    content: "";
+    transform: rotate(45deg);
+  }
+  
+  .arrow.up {
+    transform: rotate(45deg);
+    margin-left: 1380px;
+    margin-top: -220px;
+  }
+}
+
 
 @media (min-width: 768px) {
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {

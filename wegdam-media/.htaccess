@@ -1,0 +1,16 @@
+RewriteEngine On
+
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+
+RedirectMatch 403 ^/img/?$
+
+ErrorDocument 403 '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>403 Forbidden</title></head><p>Sorry, access to this page is forbidden.</p></body></html>'
+
+RedirectMatch 404 ^/pages/.*$
+
+ErrorDocument 404 '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>404 page not found</title></head><p>Sorry, this url is not found.</p></body></html>'
+
+

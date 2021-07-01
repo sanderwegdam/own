@@ -1,0 +1,33 @@
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"                >
+   <url>
+      <loc>http://wegdam-media.ml/</loc>
+      <lastmod>2021-03-10</lastmod>
+      <changefreq>always</changefreq>
+      <priority>1</priority>
+   </url>
+   <url>
+      <loc>http://wegdam-media.ml/index.php</loc>
+      <lastmod>2021-03-10</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1</priority>
+   </url>
+   <url>
+      <loc>http://wegdam-media.ml/img/about_me-sanderwegdam.png</loc>
+      <lastmod> 2020-06-26 </lastmod>
+      <changefreq>weekly</changefreq>
+      <image:image>
+      <image:loc>http://wegdam-media.ml/img/about_me-sanderwegdam.png</image:loc>
+      <image:caption>Sander Wegdam</image:caption>
+   </image:image>
+</url>
+ <url>
+      <loc>http://wegdam-media.ml/img/wegdam-media.png</loc>
+      <lastmod> 2020-06-26 </lastmod>
+      <changefreq>weekly</changefreq>
+      <image:image>
+      <image:loc>http://wegdam-media.ml/img/wegdam-media.png</image:loc>
+      <image:caption>Sander Wegdam</image:caption>
+   </image:image>
+</url>
+</urlset>

@@ -1,0 +1,9 @@
+User-Agent: *
+
+Sitemap: http://sanderwegdam.ml/sitemap.xml
+
+User-agent: Googlebot-Image
+Disallow: /images/Getuigschrift_Junior_software-developer1.jpg 
+
+User-agent: Googlebot-Image
+Disallow: /images/Getuigschrift_Junior_software-developer2.jpg
