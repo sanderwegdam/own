@@ -143,6 +143,7 @@
 
 <section class="bg-primary" id="over">
     <div class="container">
+       
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <div class="col-sm">
@@ -150,7 +151,24 @@
                         <img alt="Sander Wegdam" class="img-fluid rounded float-left" width="240" src="img/about_me-sanderwegdam.png">
                     <!-- </a> -->
                 </div>
-                <a href="#diensten" style="margin-top:40px;" class="page-scroll btn btn-default btn-xl sr-button">Services</a>
+                <a href="#portfolio" style="margin-top:40px;" class="page-scroll btn btn-default btn-xl sr-button">Portfolio</a>
+            </div>
+        </div>
+     </div>
+</section>
+
+<section class="bg-primary" style="background-color:rgb(85, 89, 92);" id="portfolio">
+    <div class="container">
+        <div class="row" id="work">            
+            <div class="col-lg-12 col-lg-offset-1 portfolio-content text-center">
+                   <!-- <i class="fa fa-2x far fa-thumbs-up text-primary sr-icons"> </i>   -->
+                        <p><a href="http://www.overdinkel.net/" target="_new" style="width:10em; color:white;" class="page-scroll">Overdinkel.net</a></p>
+                        <p><a href="http://www.hardwarewizard.byethost7.com/" target="_new" style="width:10em; color:white;" class="page-scroll">Hardwarewizard</a></p>
+                        <p><a href="http://compumedia.byethost12.com/" target="_new" style="width:10em; color:white;" class="page-scroll">Compumedia</a></p>
+                        <p><a href="http://sanderwegdam.github.io/racefiets-site/" target="_new" style="width:10em; color:white;" class="page-scroll">Racefiets-site</a></p>
+                        <p><a href="http://sanderwegdam.github.io/huisartsenapp/" target="_new" style="width:10em; color:white;" class="page-scroll">Huisartsenapp</a></p>                                    
+                     <a href="#diensten" style="margin-top:40px; width:10em; color:black;" class="page-scroll btn btn-default btn-xl">Services</a>
+                </div> 
             </div>
         </div>
     </div>

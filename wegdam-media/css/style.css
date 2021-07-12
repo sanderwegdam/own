@@ -1,5 +1,4 @@
 *
-
 /
 .navbar-default, a {
     -webkit-transition: all .35s;
@@ -147,7 +146,7 @@ aside {
 }
 
 @media (min-width: 768px) {
-
+  
     .header-content-inner > a{
         position: relative;
         top: -120px;
@@ -240,6 +239,7 @@ header .header-content .header-content-inner p {
 }
 
 @media (min-width: 768px) {
+
     header {
         min-height: 100%
     }
@@ -281,7 +281,7 @@ header .header-content .header-content-inner p {
     margin: 50px auto 0
 }
 
-@media (min-width: 992px) {
+@media (min-width: 992px) {  
 
     .service-box {
         margin: 20px auto 0
@@ -347,7 +347,6 @@ header .header-content .header-content-inner p {
     outline: 0
 }
 
-
 @media (min-width: 1440px) {
 
 * {
@@ -389,7 +388,6 @@ header .header-content .header-content-inner p {
     margin-top: -220px;
   }
 }
-
 
 @media (min-width: 768px) {
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
@@ -493,4 +491,17 @@ img::selection {
 img::-moz-selection {
     color: #fff;
     background: 0 0
+}
+
+@media (min-width: 1200px) {
+.portfolio-content {
+    padding-left: 1px;
+    flex-direction: column;
+    margin-left: -0px;
+    text-align: center;
+    display: inline-flex;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    }
 }
