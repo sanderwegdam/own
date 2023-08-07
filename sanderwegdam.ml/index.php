@@ -380,13 +380,13 @@
                             <td class="text-size">Het ontwerpen en produceren van een grafisch prototype van een app die aan een gebruikerstest is onderworpen.</td>
                         </tr>
                         <tr>
-                            <th>Programma's</th>
+                            <th>Tools</th>
                             <th>Scripttalen</th>
                         </tr>
                         <tr class="w3-white">
                             <td>
                                 <p style="margin-top:0px; font-size:11pt;">Visual Studio Code
-                                <p style="margin-top:-10px; font-size:11pt;">PHP Storm
+                                <p style="margin-top:-10px; font-size:11pt;">ChatGPT
                                 <p style="margin-top:-10px; font-size:11pt;">Adobe Photoshop
                                 <p style="margin-top:-10px; font-size:11pt;">Adobe XD
                             </td>
