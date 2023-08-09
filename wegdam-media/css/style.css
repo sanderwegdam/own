@@ -30,7 +30,7 @@ html {
 
 body {
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif !important;
-  webkit-tap-highlight-color: #222;
+  -webkit-tap-highlight-color: #222;
 }
 
 .btn,
@@ -205,6 +205,11 @@ footer {
 .col-md-4:hover .card-body,
 .col-md-4:focus .card-body {
   box-shadow: 0 1px 0px rgba(0, 0, 0, 0.3);
+}
+
+.col-md-4 a>img,
+.col-md-4 a>img {
+  transition: all .2s ease-in-out;
 }
 
 .col-md-4:hover a>img,

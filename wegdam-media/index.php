@@ -207,7 +207,7 @@
         <div class="col-md-4 content">
           <a href="http://sanderwegdam.github.io/comments-app/" target="_blank">
             <div class="card text-center">
-              <img src="img/thumbnails/thumbnail-commentsapp.png" class="card-img-top" alt="comments-app">
+              <img src="img/thumbnails/thumbnail-comments-app.png" class="card-img-top" alt="comments-app">
           </a>
           <a href="http://sanderwegdam.github.io/comments-app/" target="_blank">
             <div class="card-body">
@@ -220,7 +220,7 @@
       <div class="col-md-4 content gap">
         <div class="card text-center">
           <a href="http://sanderwegdam.github.io/foto-app/" target="_blank">
-            <img src="img/thumbnails/thumbnail-fotoapp.png" class="card-img-top" alt="foto-app">
+            <img src="img/thumbnails/thumbnail-foto-app.png" class="card-img-top" alt="foto-app">
           </a>
           <a href="http://sanderwegdam.github.io/foto-app/" target="_blank">
             <div class="card-body">
@@ -233,11 +233,11 @@
       <div class="col-md-4 content gap">
         <div class="card text-center">
           <a href="http://sanderwegdam.github.io/foto-favorieten-app/" target="_blank">
-            <img src="img/thumbnails/thumbnail-fotofavorietenapp.png" class="card-img-top" alt="foto-favorieten-app">
+            <img src="img/thumbnails/thumbnail-foto-favorieten-app.png" class="card-img-top" alt="foto-favorieten-app">
           </a>
           <a href="http://sanderwegdam.github.io/foto-favorieten-app/" target="_blank">
             <div class="card-body">
-              <h6 class="card-title">Fotofavorieten App</h6>
+              <h6 class="card-title">Foto favorieten App</h6>
             </div>
           </a>
         </div>
@@ -301,7 +301,7 @@
       <div class="col-md-4 content gap">
         <div class="card text-center">
           <a href="http://sanderwegdam.github.io/takenlijst-app/" target="_blank">
-            <img src="img/thumbnails/thumbnail-takenlijstapp.png" class="card-img-top" alt="takenlijst-app">
+            <img src="img/thumbnails/thumbnail-takenlijst-app.png" class="card-img-top" alt="takenlijst-app">
           </a>
           <a href="http://sanderwegdam.github.io/takenlijst-app/" target="_blank">
             <div class="card-body">
@@ -314,7 +314,7 @@
       <div class="col-md-4 content gap">
         <div class="card text-center">
           <a href="http://sanderwegdam.github.io/vertaal-app" target="_blank">
-            <img src="img/thumbnails/thumbnail-vertaalapp.png" class="card-img-top" alt="vertaal-app">
+            <img src="img/thumbnails/thumbnail-vertaal-app.png" class="card-img-top" alt="vertaal-app">
           </a>
           <a href="http://sanderwegdam.github.io/vertaal-app" target="_blank">
             <div class="card-body">
@@ -329,11 +329,24 @@
       <div class="col-md-4 col-xs-4 content">
         <div class="card text-center">
           <a href="http://sanderwegdam.github.io/weer-app" target="_blank">
-            <img src="img/thumbnails/thumbnail-weerapp.png" class="card-img-top" alt="weer-app">
+            <img src="img/thumbnails/thumbnail-weer-app.png" class="card-img-top" alt="weer-app">
           </a>
           <a href="http://sanderwegdam.github.io/weer-app" target="_blank">
             <div class="card-body">
               <h6 class="card-title">Weer App</h6>
+            </div>
+          </a>
+        </div>
+      </div>
+
+      <div class="col-md-4 col-xs-4 content gap">
+        <div class="card text-center">
+          <a href="http://sanderwegdam.github.io/tip-calculator-app" target="_blank">
+            <img src="img/thumbnails/thumbnail-tip-calculator-app.png" class="card-img-top" alt="tip-calculator-app">
+          </a>
+          <a href="http://sanderwegdam.github.io/tip-calculator-app" target="_blank">
+            <div class="card-body">
+              <h6 class="card-title">Tip calculator App</h6>
             </div>
           </a>
         </div>
