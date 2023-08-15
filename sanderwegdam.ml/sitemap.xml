@@ -1,0 +1,44 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<url>
+<loc> http://sanderwegdam.ml/ </loc>
+<lastmod>2020-06-26</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+  <url>
+       <loc>http://sanderwegdam.ml/images/sanderwegdam.jpg</loc>
+       <lastmod> 2020-06-26 </lastmod>
+       <changefreq>weekly</changefreq>
+       <image:image>
+          <image:loc>http://sanderwegdam.ml/images/sanderwegdam.jpg</image:loc>
+          <image:caption>Sander Wegdam</image:caption>
+       </image:image>
+    </url>
+    <url>
+       <loc>http://sanderwegdam.ml/images/Certificaat_Front-end developer_HTML5-CSS3.jpg</loc>
+       <lastmod>2020-06-26 </lastmod>
+       <changefreq>weekly</changefreq>
+       <image:image>
+          <image:loc>http://sanderwegdam.ml/images/Certificaat_Front-end developer_HTML5-CSS3.jpg</image:loc>
+          <image:caption>Certificaat HTML5/CSS3</image:caption>
+       </image:image>
+    </url>
+   <url>
+       <loc>http://sanderwegdam.ml/images/Studieverklaring_LOI_PHP&amp;MySQL.jpg</loc>
+       <lastmod>2020-06-26 </lastmod>
+       <changefreq>weekly</changefreq>
+       <image:image>
+          <image:loc>http://sanderwegdam.ml/images/Studieverklaring_LOI_PHP&amp;MySQL.jpg</image:loc>
+          <image:caption>Studieverklaring PHP/MySQL</image:caption>
+       </image:image>
+    </url>
+      <url>
+       <loc>http://sanderwegdam.ml/images/Studieverklaring_LOI_Programmeren_in_Javascript.jpg</loc>
+       <lastmod>2020-06-26 </lastmod>
+       <changefreq>weekly</changefreq>
+       <image:image>
+          <image:loc>http://sanderwegdam.ml/images/Studieverklaring_LOI_Programmeren_in_Javascript.jpg</image:loc>
+          <image:caption>Studieverklaring JavaScript</image:caption>
+       </image:image>
+    </url>
+</urlset>

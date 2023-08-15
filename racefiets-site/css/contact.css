@@ -1,0 +1,526 @@
+@import url(normalize.css);
+
+body {
+	background-color: #ffffff;
+	font-family: 'Roboto Condensed';
+	font-size: 1.25rem;	
+	border: 0;
+}
+
+.container > * {	
+	margin: 0;
+	border: 0;
+}
+
+header, main, footer {
+    flex: 1 1 100%;
+	border: 0;
+}
+
+header {
+	position: relative;
+	height: 450px;	
+	padding: 0;
+	margin: 0;
+	background-image: none;
+}
+
+header .mapouter {	
+	display: grid;
+	justify-content: center;
+	align-content: center;
+	text-align: right;
+	margin: 0 auto;	
+	width: fit-content;
+	border: 0;
+	z-index: -1;	
+}				
+
+.gmap_canvas iframe {
+	width: 90vw;
+	display: block;
+	height: 300px;
+	margin-top: 180px;
+}
+
+section {	
+	display: grid;
+	width: 100%;
+	height: 80px;
+	justify-content: center;
+	padding: 0px 0px 0px 0px;
+	border-radius: 50px 20px;  	
+	margin: 0 auto;
+	margin-top: 200px;
+}
+
+section > h2, p {	
+	display: block;	
+	width: 100%;
+	height: 50px;
+	justify-content: center;
+	border-radius: 50px 20px;  	
+	margin: 0 auto;
+}
+
+form {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 2em;		
+	padding-right: 0px;
+	min-width: 14em;
+}
+
+fieldset {
+	margin: 0 auto;
+	padding-right:0px; 
+	min-width: 10em;
+	display: block;
+	height: 200px;
+	text-align: center;
+	border: 0;
+	padding-bottom: 320px;
+}
+
+fieldset label {	
+	display: inline-block;
+	height: auto;
+	width: 200px;
+	text-align: left;
+	font-weight: bold;	
+	margin-left: 0;
+	font-size: 0.8em;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+label + input {
+	display: block;	
+	margin: 0 auto;
+	margin-top: 10px;
+	text-align: left;
+}
+
+label + input + small {
+	display: block;
+	position: relative;
+	top: -25px;
+	width: 50px;
+	left: -225px;
+	text-align: right;
+	font-size: 0.7em;
+	vertical-align: baseline; 
+	color: rgb(0, 0, 0);
+	margin-left: 500px;
+}
+
+label + textarea {
+	display: block;
+	text-align: left;
+	font-size: 1em;
+	color: rgb(0, 0, 0);
+	margin: 0 auto;
+	resize: none;
+	width: 10em;
+	height: 100px;
+	padding-top: 5px;
+	border-radius: .25rem;
+	border: 1px solid #ccc;
+	padding: 2px 12px 2px 12px;
+}
+
+fieldset input:invalid:not(:focus):not(:placeholder-shown), textarea:invalid:not(:focus):not(:placeholder-shown) {
+	color: red;
+    background: white;      
+}   
+     
+fieldset input:invalid:focus:not(:placeholder-shown), textarea:invalid:focus:not(:placeholder-shown) {
+	color: red;
+}   
+
+fieldset input:focus:invalid, textarea:focus:invalid {
+	color: red;	
+	border: 2px solid red;
+}
+
+input {
+	font-family: inherit;
+	font-size: 20px;
+	width: 10em;
+	margin-top: 5px;
+	line-height: 28px;
+	vertical-align: middle;
+	border-radius: .25rem;
+	border: 1px solid #ccc;
+	padding: 2px 12px 2px 12px;
+}
+
+input.versturen {	
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+	color: black;
+	font-size: 1.2em;
+}
+
+input[type="submit"] {
+	width: 5em;
+	margin-top: 20px;
+}
+
+footer {	
+	background-color: rgba(0, 0, 0, 0.3);	
+	text-align: center;	
+}
+
+footer > p {
+	color: black;
+	margin-top: 50px;
+	margin-bottom: 0px;
+	text-transform: none;	
+	height: auto;
+}
+
+@media screen and (min-width: 20em) {
+
+.gmap_canvas iframe {
+	width: 90vw;
+	display: block;
+	height: 300px;
+	margin-top: 180px;
+}
+
+section {	
+	display: grid;
+	width: 50%;
+	justify-content: center;
+	border: 2px solid red;
+	padding: 30px;
+	border-radius: 50px 20px;  	
+	margin: 0 auto;
+	margin-top: 200px;
+}
+
+form {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 2em;		
+	width: 200px;
+	padding-right: 0px;
+	min-width: 14em;
+}
+
+fieldset {
+	padding: 0; 
+	min-width: 10em;
+	height: 200px;
+	text-align: center;
+	border: 0;
+	margin: 0 auto;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 320px;	
+	border: 1px solid #ccc;	
+}
+
+fieldset label {	
+	display: inline-block;
+	text-align: left;
+	font-weight: bold;	
+	height: auto;
+	width: 200px;
+	margin-left: 0;
+	font-size: 0.8em;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+label + input {
+	margin: 0 auto;
+	text-align: left;
+}
+
+label + input + small {
+	display: block;
+	position: relative;
+	top: -25px;
+	width: 50px;
+	text-align: right;
+	font-size: 0.7em;
+	vertical-align: baseline; 
+	color: rgb(0, 0, 0);
+	margin-left: 500px;
+}
+
+label + textarea {
+	display: block;
+	text-align: left;
+	font-size: 1em;
+	color: rgb(0, 0, 0);
+	resize: none;
+	width: 10em;
+	height: 100px;
+	padding-top: 5px;
+	border-radius: .25rem;	
+	border: 1px solid #ccc;
+	padding: 2px 12px 2px 12px;
+}
+
+input {		
+	font-family: inherit;
+	font-size: 20px;
+	width: 10em;
+	margin-top: 5px;
+	line-height: 28px;
+	vertical-align: middle;
+	border-radius: .25rem;
+	border: 1px solid #ccc;
+	padding: 2px 12px 2px 12px;
+}
+
+input.versturen {	
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+	color: black;		
+	font-size: 1.2em;
+}
+
+input[type="submit"] {
+	width: 5em;
+	margin-top: 20px;
+}
+
+footer {	
+	background-color: rgba(0, 0, 0, 0.3);	
+	text-align: center;	
+}
+
+footer > p {
+	color: black;
+	margin-top: 50px;
+	margin-bottom: 0px;
+}
+}
+
+@media screen and (min-width: 30em) {	
+
+form {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 2em;		
+	width: 120px;
+	padding-right: 0px;
+	min-width: 20em;
+}
+
+fieldset {
+	padding: 0; 
+	min-width: 18em;
+	height: 200px;
+	text-align: center;
+	border: 0;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 320px;	
+	border: 1px solid #ccc;	
+}
+
+label + input {
+	display: block;
+	margin: 0 auto;
+	margin-left: 70px;
+	text-align: left;
+}
+
+label + textarea {
+	display: block;
+	text-align: left;
+	font-size: 1em;
+	color: rgb(0, 0, 0);
+	margin-left: 70px;
+	resize: none;
+	width: 10em;
+	height: 100px;
+	padding-top: 5px;
+	border-radius: .25rem;
+	border: 1px solid #ccc;
+}
+}
+
+@media screen and (min-width: 40em) {	
+	
+.gmap_canvas iframe { 
+	width: 95vw;
+	height: 300px;
+	margin-top: 180px;
+}
+
+section {	
+	display: grid;
+	width: 50%;
+	justify-content: center;
+	border: 2px solid red;
+	border-radius: 50px 20px;  	
+	margin: 0 auto;
+	margin-top: 150px;
+}
+
+form {
+	display: block;
+	margin: 0 auto;
+	margin-top: 100px;
+	margin-bottom: 2em;		
+	padding-bottom: 0em;	
+	width: 100%;
+}
+
+fieldset {
+	width: 30%;
+	margin: 0 auto;
+	display: block;
+	height: 320px;
+	text-align: center;
+	border: 0;
+	padding-bottom: 200px;
+	border: 1px solid #ccc;	
+	padding-left: 20px;
+}
+}
+
+@media screen and (min-width: 64em) {
+	
+.gmap_canvas iframe { 
+	width: 1000px;
+	height: 300px;
+	margin-top: 180px;
+}
+
+section {	
+	display: grid;
+	width: 50%;
+	justify-content: center;
+	border: 2px solid red;
+	padding: 30px;
+	border-radius: 50px 20px;  	
+	margin: 0 auto;
+	margin-top: 150px;
+}
+}
+
+@media screen and (min-width: 80em) {
+
+.gmap_canvas iframe { 
+	width: 1250px;
+	height: 300px;
+	margin-top: 180px;
+}
+
+section {	
+	display: grid;
+	width: 50%;
+	justify-content: center;
+	border: 2px solid red;
+	border-radius: 50px 20px;  	
+	margin: 0 auto;
+	margin-top: 200px;
+}
+
+form {
+	display: block;
+	margin: 0 auto;
+	margin-top: 100px;
+	margin-bottom: 2em;		
+	padding-bottom: 0em;	
+	width: 100%;
+}
+
+fieldset {
+	width: 40%;
+	margin: 0 auto;
+	display: block;
+	height: 320px;
+	text-align: center;
+	border: 0;
+	padding-bottom: 200px;
+	border: 1px solid #ccc;	
+	padding-left: 20px;
+}
+
+fieldset label {	
+	display: inline-block;
+	text-align: left;
+	font-weight: bold;	
+	width: 200px;
+	height: auto;
+	margin-left: 0px;
+	font-size: 0.8em;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+label + input {
+	display: block;	
+	margin: 0 auto;
+	text-align: left;
+}
+
+label + input + small {
+	display: block;
+	position: relative;
+	top: -25px;
+	left: -50px;
+	margin-right: 20px;
+	width: 50px;
+	text-align: right;
+	font-size: 0.7em;
+	vertical-align: baseline; 
+	color: rgb(0, 0, 0);
+}
+
+label + textarea {
+	display: block;
+	text-align: left;
+	font-size: 1em;
+	color: rgb(0, 0, 0);
+	margin: 0 auto;
+	resize: none;
+	width: 12em;
+	height: 100px;
+	padding-top: 5px;
+	border-radius: .25rem;
+	border: 1px solid #ccc;
+	padding: 2px 12px 2px 12px;
+}
+
+input {
+	font-size: 20px;
+	font-family: inherit;
+	width: 12em;
+	margin-top: 5px;
+	line-height: 28px;
+	vertical-align: middle;
+	border-radius: .25rem;
+	border: 1px solid #ccc;
+	padding: 2px 12px 2px 12px;
+}
+
+input.versturen {	
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+	color: black;
+	font-size: 1.2em;
+}
+
+input[type="submit"] {
+	width: 5em;
+	margin-top: 20px;
+}
+}

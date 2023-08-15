@@ -1,0 +1,339 @@
+@import url(normalize.css);
+
+header, main, footer {
+    flex: 1 1 100%;
+	border: 0;
+}
+
+header {
+	position: relative;
+	height: 450px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url("../images/racefiets.jpg");	
+}
+
+header > div > a > img {
+	margin-top: 0;
+	display: flex;
+	padding: 0;
+	margin-left: 0;	
+	width: 130px;
+	height: 75px;
+}
+
+.logo::after {
+	display: flex;
+	content: " Racefietsen";	
+	font-weight: 500;
+	justify-content:start;
+	margin-left: 10px;
+}
+
+@media only screen and (min-width: 20em) { /* 320px */
+
+header > div > a > img {
+	display: flex;
+	padding: 0;
+	margin-left: 0;	
+	width: 130px;
+	height: 75px;
+}
+
+.logo::after {
+	display: flex;
+	content: " Racefietsen";	
+	font-weight: 500;
+	justify-content: start;	
+	margin-left: 10px;
+} 
+
+nav a:hover.racefietsen {
+	text-decoration: none !important;
+}
+}
+
+@media screen and (min-width: 48em) and (max-width: 64em) { /* 768px */
+
+header {	
+	position: relative;
+	height: 450px;	
+	background-position: center;
+	background-size: contain;
+}
+
+header > div > a > img {
+	display: flex;
+	padding: 0;
+	margin-left: 0;	
+	margin-top: 0px;
+	width: 180px;
+	height: 110px;
+}
+
+.logo::after {
+	display: flex;
+	content: " Racefietsen";	
+	font-weight: 500;
+	justify-content: start;	
+	margin-left: 10px;
+}
+
+nav > ul {
+	height: 60px;
+}
+
+nav ul ul {
+	display: none;	
+	margin-top: 0px;
+}
+
+nav ul ul > li {
+	display: block; 
+	padding: 0.5em; 
+	margin: 0 auto;
+}
+
+nav ul ul > li > a {
+	font-size: 1.1em;
+	font-family: sans-serif;
+	font-weight: 700;
+	color: rgb(50,100,150);
+	text-decoration: none;
+}
+
+li:hover ul,
+li:focus ul {
+	display: flex;
+	flex-flow: column;
+	background-color: rgb(192,192,192);		
+}
+
+nav {	
+	display: flex;
+	margin-bottom: 0px;
+	margin-top: -135px; 	
+	margin-left: 180px; 	
+	background-color: rgb(192,192,192);
+}
+
+nav ul {
+	display: flex;
+	justify-content: space-around;
+	margin: 0;
+	padding: 0; 		
+}
+
+nav a { 
+	display: block;
+	padding: .5em;
+	font-family: sans-serif;
+	font-size: 1.2em;
+	font-weight: 700;
+	margin-top: 10px;
+	color: rgba(0,0,0);
+	text-shadow: 0 1px 1px rgba(255,255,255,.8);
+	text-decoration: none;	
+}
+
+nav a:focus,
+	a:hover	{
+	background-color: rgb(192,192,192);
+	color: black;
+	text-decoration: underline;
+}
+
+nav a:hover.racefietsen {
+	text-decoration: none !important;
+}
+}
+
+@media only screen and (min-width: 64em) and (max-width: 80em) { /* 1024px */
+
+header {	
+	position: relative;
+	height: 450px;	
+	background-position: center;
+	background-size: contain;
+}
+
+header > div > a > img {
+	display: flex;
+	padding: 0;
+	margin-left: 0;	
+	margin-top: 0px;
+	width: 180px;
+	height: 110px;
+}
+
+.logo::after {
+	display: flex;
+	content: " Racefietsen";	
+	font-weight: 500;
+	justify-content: start;	
+	margin-left: 10px;
+}
+
+nav > ul {
+	height: 60px;
+}
+
+nav ul ul {
+	display: none;	
+	margin-top: 0px;
+}
+
+nav ul ul > li {
+	display: block; 
+	padding: 0.5em; 
+	margin: 0 auto;
+}
+
+nav ul ul > li > a {
+	font-size: 1.1em;
+	font-family: sans-serif;
+	font-weight: 700;
+	color: rgb(50,100,150);
+	text-decoration: none;
+}
+
+li:hover ul,
+li:focus ul {
+	display: flex;
+	flex-flow: column;
+	background-color: rgb(192,192,192);	
+}
+
+nav {	
+	display: flex;
+	margin-bottom: 0px;
+	margin-top: -135px; 	
+	margin-left: 180px; 	
+	background-color: rgb(192,192,192);
+}
+
+nav ul {
+	display: flex;
+	justify-content: space-around;
+	margin: 0;
+	padding: 0; 	
+}
+
+nav a { 
+	display: block;
+	padding: .5em;
+	font-family: sans-serif;
+	font-size: 1.2em;
+	font-weight: 700;
+	margin-top: 10px;
+	color: rgba(0,0,0);
+	text-shadow: 0 1px 1px rgba(255,255,255,.8);
+	text-decoration: none;	
+}
+
+nav a:focus,
+	a:hover	{
+	background-color: rgb(192,192,192);
+	color: black;
+	text-decoration: underline;	
+}
+
+nav a:hover.racefietsen {
+	text-decoration: none !important;
+}
+}
+
+@media screen and (min-width: 80em) { /* 1280px */
+
+header {	
+	position: relative;
+	height: 450px;	
+	background-size: contain;
+	background-position: center;
+}
+
+header > div > a > img {
+	display: flex;
+	padding: 0; 	
+	margin-top: 0px;
+	margin-left: 0;	
+	width: 180px;
+	height: 110px;
+}
+
+.logo::after {
+	display: flex;
+	content: " Racefietsen";	
+	font-weight: 500;
+	justify-content: start;	
+	margin-left: 10px;
+}
+
+nav > ul {
+	height: 60px;	
+}
+
+nav ul ul {
+	display: none;	
+	margin-top: 0px;
+}
+
+nav ul ul > li {
+	display: block; 
+	padding: 0.5em; 
+	margin: 0 auto;
+}
+
+nav ul ul > li > a {
+	font-size: 1.1em;
+	font-family: sans-serif;
+	font-weight: 700;
+	color: rgb(50,100,150);
+	text-decoration: none;
+}
+
+li:hover ul,
+li:focus ul {
+	display: flex;
+	flex-flow: column;
+	background-color: rgb(192,192,192);	
+}
+
+nav {	
+	display: flex;
+	margin-bottom: 0px;
+	margin-top: -135px; 	
+	margin-left: 180px; 	
+	background-color: rgb(192,192,192);			
+}
+
+nav ul {
+	display: flex;
+	justify-content: space-around;
+	margin: 0;
+	padding: 0; 	
+}
+
+nav a { 
+	display: block;
+	padding: .5em;
+	font-family: sans-serif;
+	font-size: 1.2em;
+	font-weight: 700;
+	margin-top: 10px;
+	color: rgba(0,0,0);	
+	text-shadow: 0 1px 1px rgba(255,255,255,.8);	
+}
+
+nav a:focus,
+	a:hover	{
+	background-color: rgb(192,192,192);
+	color: black;
+	text-decoration: underline;
+}
+
+nav a:hover.racefietsen {
+	text-decoration: none !important;
+}
+}

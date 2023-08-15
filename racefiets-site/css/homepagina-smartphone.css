@@ -1,0 +1,366 @@
+@import url(normalize.css);
+
+body {
+	background-color: #ffffff;
+	font-family: 'Roboto Condensed';
+	font-size: 1.25rem;	
+	border: 0;
+}
+
+.container > * {	
+	margin: 0;
+	border: 0;
+}
+
+footer {
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+footer > p {
+	color: black;
+	text-transform: none;	
+	margin-top: 20px;
+	margin-bottom: 0px;
+	height: auto;
+}
+
+@media only screen and (min-width: 0em) { 
+
+h1 {	
+	position: relative;
+	border: 2px solid red;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 70%;
+	top: 80px;
+	height: 100%;
+	text-align: center;
+	padding: 50px;
+	border-radius: 50px 20px;  
+}
+
+.content ul {
+	display: flex;	
+	flex-wrap: wrap;	
+	flex-direction: row;	
+	margin-top: 10px;
+	height: 600px;
+	margin-bottom: 0px;
+	margin: 0 auto;
+	justify-content: center;
+	width: 90%;
+	padding: 0;
+}
+
+.content ul > li {
+	display: flex;	
+	font-size: 2rem;
+	height: 600px;
+	width: 20%;
+	border: 1px solid #999;
+	border-radius: 25px;
+	text-align: center;
+	justify-content: center;
+	margin-bottom: 2px;
+}
+
+.content ul > li:nth-child(1) {	
+	flex: auto;
+}
+
+.content ul > li:nth-child(2) {	
+	margin-left: 5px;
+	flex: auto;
+}
+
+.content article > h2 {
+	display: block;
+	font-size: 0.8em;
+	font-weight: 300;
+	margin-bottom: 0;
+	padding: 15px;
+	list-style-position: inside;
+	color: rgba(68, 108, 179, 1);	
+}
+
+.content article > p {
+	display: block;
+	color: black;
+	padding: 0 15px;
+	font-size: 0.5em;
+}
+
+table {
+	margin-top: 50px;
+	margin: 0 auto;
+	color: black;
+	font-size: 1em;  
+	height: auto;
+	display: table; 
+}
+
+caption{
+	display: table;
+	margin: 0 auto;
+	font-size: 1.5em;
+	margin-bottom: 80px;
+}
+
+tr {
+	display: table-cell;
+	margin: 0 auto;	
+}
+
+h3 {
+	display: table;
+	margin: 0 auto;
+}
+
+td {
+	display: block; 
+	vertical-align: inherit;
+	padding: .5em;
+	width: 70%;		
+	height: 450px;
+	text-align: left;	
+	margin-top: -100px;
+}
+
+td > video{
+	display: table-cell;
+	margin: 0 auto;
+	width: 320px;	
+	height: 240px;
+}
+
+td > object{	
+	display: table-cell;
+	margin: 0 auto;
+	width: 320px;	
+	height: 240px;
+}
+}
+
+@media only screen and (min-width: 20em) { /* 320px */
+
+h1 {	
+	border: 2px solid red;
+	position: relative;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 70%;
+	top: 80px;
+	height: 100%;
+	text-align: center;
+	padding: 50px;
+	border-radius: 50px 20px;  	
+}
+
+.content ul {
+	display: flex;	
+	flex-wrap: wrap;	
+	flex-direction: row;	
+	margin-top: 10px;	
+	height: 600px;
+	margin-bottom: 0px;
+	margin: 0 auto;
+	justify-content: center;
+	width: 90%;
+	padding: 0;
+}
+
+.content ul > li {
+	display: flex;	
+	font-size: 2rem;
+	height: 600px;
+	width: 46%;
+	border: 1px solid #999;
+	border-radius: 25px;
+	text-align: center;
+	justify-content: center;
+	margin-bottom: 2px;
+}
+
+.content ul > li:nth-child(1) {	
+	flex: auto;
+}
+
+.content ul > li:nth-child(2) {	
+	margin-left: 5px;
+	flex: auto;
+}
+
+.content article > h2 {
+	display: block;
+	font-size: 0.8em;
+	font-weight: 300;
+	margin-bottom: 0;
+	padding: 15px;
+	list-style-position: inside;
+	color: rgba(68, 108, 179, 1);	
+}
+
+.content article > p {
+	display: block;
+	color: black;
+	padding: 0 15px;
+	font-size: 0.5em;
+}
+
+table {
+	margin-top: 50px;
+	margin: 0 auto;
+	color: black;
+	font-size: 1em;  
+	height: auto;
+	display: table; 
+}
+
+caption{
+	display: table;
+	margin: 0 auto;
+	font-size: 1.5em;
+	margin-bottom: 80px;
+}
+
+tr {
+	display: table-cell;
+	margin: 0 auto;
+	
+}
+
+h3 {
+	display: table;
+	margin: 0 auto;
+}
+
+td {
+	display: block; 
+	vertical-align: inherit;
+	padding: .5em;
+	width: 70%;		
+	height: 450px;
+	text-align: left;	
+	margin-top: -100px;
+}
+
+td > video{
+	display: table-cell;
+	margin: 0 auto;
+	width: 320px;	
+	height: 240px;
+}
+
+td > object{	
+	display: table-cell;
+	margin: 0 auto;
+	width: 320px;	
+	height: 240px;
+}
+}
+
+@media only screen and (min-width: 40em) { /* 640px */
+
+.content ul {
+	display: flex;	
+	flex-wrap: wrap;	
+	flex-direction: row;	
+	margin-top: 20px;
+	height: 500px;
+	margin-bottom: 0px;
+	margin: 0 auto;
+	justify-content: center;
+	width: 90%;	
+	padding: 0px;
+}
+
+.content ul > li {
+	display: flex;	
+	font-size: 2rem;
+	height: 500px;
+	width: 47%;
+	border: 1px solid #999;
+	border-radius: 25px;
+	text-align: center;
+	justify-content: center;
+	margin-bottom: 2px;
+}
+
+.content ul > li:nth-child(1) {
+	flex: auto;
+}
+
+.content ul > li:nth-child(2) {	
+	margin-left: 5px;
+	flex: auto;
+}
+
+.content article > h2 {
+	display: block;
+	font-size: 0.8em;
+	font-weight: 300;
+	margin-bottom: 0;
+	padding: 15px;
+	list-style-position: inside;
+	color: rgba(68, 108, 179, 1);	
+}
+
+.content article > p {
+	display: block;
+	color: black;
+	padding: 0 15px;
+	font-size: 0.5em;
+}
+
+table {
+	margin-top: 50px;
+	margin: 0 auto;
+	color: black;
+	font-size: 1em;  
+	height: auto;
+	display: table; 
+}
+
+caption{
+	font-size: 2em;
+	display: table;
+	margin: 0 auto;
+	margin-bottom: 0px;
+}
+
+tr{
+	display: table-cell;	
+}
+
+td {	
+	display: block; 
+	vertical-align: inherit;
+	padding: .5em;
+	width: 80%;	
+	height: 450px;
+	text-align: left;
+	margin-top: 0px;
+}
+
+td > video{
+	width: 600px;	
+	height: 410px;
+}
+
+td > object{
+	width: 600px;	
+	height: 410px;
+}
+
+footer {
+	text-align:center;
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+footer > p {
+	color: black;
+	text-transform: none;	
+	margin-top: 50px;
+}
+}
