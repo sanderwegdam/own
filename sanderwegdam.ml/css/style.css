@@ -19,12 +19,21 @@ section,
 summary {
   display: block;
 }
+
+html, body{
+  scroll-behavior: smooth;
+}
+
 html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
 body {
   margin: 0;
+}
+
+#Home, #Werkervaring, #Interesses{
+  scroll-snap-align: start;
 }
 
 .fa-angle-down {
@@ -50,8 +59,10 @@ a {
   background-color: transparent;
 }
 a:active,
+a:focus,
 a:hover {
   outline: 0;
+  color: rgba(255, 255, 255, 0.80) !important;
 }
 abbr[title] {
   border-bottom: 1px dotted;
@@ -169,7 +180,7 @@ textarea {
 
 html,
 body {
-  font-family: Verdana, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 15px;
   line-height: 1.5;
 }
@@ -184,7 +195,7 @@ h5,
 h6,
 .w3-slim,
 .w3-wide {
-  font-family: "Segoe UI", Arial, sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 h1 {
   font-size: 36px;
@@ -255,6 +266,7 @@ table,
 th,
 td {
   border: none;
+  margin: 0 auto;
 }
 
 .w3-table-all {
@@ -1020,9 +1032,7 @@ input[type="radio"].w3-radio:disabled + .w3-validate {
   }
 }
 @media (max-width: 795px) and (min-width: 460px) {
-  .w3-padding-hor-32 {
-    margin-top: -120px;
-  }
+  
   .w3-hide-medium {
     display: none !important;
   }
